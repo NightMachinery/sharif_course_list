@@ -15,7 +15,7 @@ The latest version of the course lists can be viewed [here](https://nightmachina
 
 ## Basic usage example
 
-- Install [Refined Github](https://github.com/sindresorhus/refined-github#install)
+- Install [Refined Github](https://github.com/sindresorhus/refined-github#install).
 - (Optional step; Skip if you just want to see the latest data.)
   - Select the date at which you want to view the data from [the commit list](https://github.com/NightMachinary/sharif_course_list/commits/master).
   - Click on `Browse files`.
