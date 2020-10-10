@@ -1,0 +1,1476 @@
+<style>
+body {
+	background-color:none;
+	margin:0px;
+}
+td {
+	margin-right : 10px;
+	margin-left : 10px;
+}
+a {
+	color : black;
+	text-decoration:underline;
+}
+a:hover {
+	color: #B6A8EC;
+}
+a.topLinks {
+	text-decoration : none;
+	color : white;
+	font-family:Nesf;
+	font-size:12px;
+}
+a.topLinks:visited {
+	color : White;
+}
+a.topLinks:hover {
+	color : White;
+}
+a.rightLinks {
+	color : White;
+	text-decoration : none;
+}
+a.rightLinks:hover {
+	color : White;
+	text-decoration : none;
+}
+a.rightLinks:visited {
+	color : White;
+}
+/*
+td{
+	background-color : #eeebcc;
+	border: #336666 0.1pt;
+
+}
+/*
+*/
+.none{
+	background-color : white;
+	border: white 0pt;
+
+}
+.customSelect{
+	border:1px solid #024E02;
+	font-family:nesf;
+	width=60;
+
+}
+
+.bigSelect{
+	border:1px solid #024E02;
+	font-family:nesf;
+	width=320;
+
+}
+
+
+
+.submit{
+	border:1px solid #024E02;
+	width: 120;
+	color: Black;
+	font-family:nesf;
+	font-size=11;
+	background-color: #BFD2FD;
+	height:25;
+	cursor:hand;
+
+}
+
+
+
+.submit2{
+	border:1pt silver #024E02;
+	color: Black; 
+	font-family:nesf;
+	font-size=11;
+	background-color: #BFD2FD;
+	height:25;
+	cursor:hand;
+	border-color:black;
+	background-position: right bottom;
+
+}
+
+
+select2{
+	border:1px solid #024E02;
+	font-family:nesf;
+
+}
+
+textarea{
+	border:#024E02 1px solid;
+	font-family:nesf;
+
+}
+
+select{
+	border:1px solid #024E02;
+	font-family:nesf;
+	width=180;
+
+}
+
+.input{
+	border:1px solid #024E02;
+	font-family:nesf;
+	width=180;
+}
+
+.smallInput{
+	border:1px solid #024E02;
+	font-family:nesf;
+	width=90;
+}
+
+.widthlessInput {
+	border:1px solid #024E02;
+	font-family:nesf;
+}
+
+.menuBlueLight{
+/* top active and right menu */
+	border:none;
+	background-color : #0d3b9c;
+
+
+}
+.menuBlueDark{
+/* top symbol bg */
+	background-color : #000066;
+	border:none;
+
+}
+.topMenu {
+}
+.topMenuActive {
+	border:none;
+	background-color : #0d3b9c;
+}
+.topBlankRow {
+	border:none;
+	background-color : #0d3b9c;
+}
+
+.menuParentBG{
+/* top menu */
+	background-color : #070784;
+	border:none;
+	
+}
+.menuActiveChild{
+	background-color : #666699;
+	border:none;
+}
+
+.menuBackImage{
+	background-image : url('../images/back.gif');
+	background-color : white;
+	border:medium none;
+}
+.menuRightLinks{
+	background-color : #0000e0;
+	border:none;
+}
+.topMenuLeftSide {
+	background-image: url('../images/tabLeftSide_df.gif');
+	background-position: left top;
+	background-repeat:no-repeat;
+	border:medium none;
+}
+.topMenuRightSide {
+	background-image: url('../images/tabRightSide_df.gif');
+	background-position: right top;
+	background-repeat:no-repeat;
+	border:medium none;
+}
+.topMenuLeftSideActive {
+	background-image: url('../images/tabLeftSide_df.gif');
+	background-position: left top;
+	background-repeat:no-repeat;
+	background-color:#0d3b9c;
+	border:medium none;
+}
+.topMenuRightSideActive {
+	background-image: url('../images/tabRightSide_df.gif');
+	background-position: right top;
+	background-repeat:no-repeat;
+	background-color:#0d3b9c;
+	border:medium none;
+}
+.topSymbol {
+	background-image: url('../images/logo_df.bmp');
+	background-position: right;
+	background-repeat: no-repeat;
+	border:medium none;
+}
+
+.mainCellCurve {
+	background-image: url('../images/curve_df.gif');
+	background-position: right top;
+	background-repeat: no-repeat;
+	border:medium none;
+	background-color:white;
+	margin-right : 5px;
+	margin-left : 5px
+}
+
+.rightMenu {
+	border-bottom:#666699 1pt solid;
+
+}
+.rightMenuActive {
+	border-bottom:#666699 1pt solid;
+	background-color:#0000e0;
+}
+.mainTitle {
+	font-weight : bold;
+	font-family:nazanin,nesf;
+	text-align : right;
+	font-size : 37px;
+	background-image : url('../images/logo_df.bmp');
+	background-repeat : no-repeat; 
+	background-position: right;
+	text-align : right;
+	
+}
+
+.contentTable {
+	background-color : #000182;
+}
+.contentCell {
+	background-color : #F0F8FF;
+	font-family:nesf;
+	font-size:13px;
+	text-align: center;
+}
+.header {
+	background-color : #5C729E;
+	color : white;
+	border: 0.0pt Black;
+	font-family:nesf;
+	font-size:14px;
+	text-align: center;
+	font-weight:bold;
+}
+/*
+.rightCol {
+
+}
+*/
+.bgHeader{
+	background-color : #B8CFF7;
+}
+.bgCell {
+ 	background-color : #F1F5FE;
+	font-size:14px;
+
+}
+
+.colorfullText {
+	/* registeration and repairment top color texts */
+	color:#0000FF;
+	font-family:nesf;
+	font-weight:bold;
+	font-size:12px;
+}
+.colorlessText {
+	/* registeration and repairment top colorless texts */
+	color:black;
+	font-family:nesf;
+	font-size:12px;
+}
+
+/*
+  style for value lists
+*/
+
+.clsText
+{
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma
+}
+.clsTextArea
+{
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma
+}
+.clsSelect
+{
+	FONT-SIZE: 8pt; FONT-FAMILY: Tahoma
+}
+.clsButton
+{
+	Cursor:Hand;width:60; color:#335B99 
+}
+.clsdarkBGTR
+{
+	background-color: #BFD0EA
+}
+.clsdarkBGTD
+{
+	background-color: #BFD0EA
+}
+.clsBGTR
+{
+	background-color: #d4dded
+}
+.clsErrorMessage
+{
+	Color:#FF0000; text-align:center; font-weight:bold
+}
+.clsSuccessMessage
+{
+	Color:#008000; text-align:center; font-weight:bold
+}
+.clssortAsc
+{
+	background-image: url('../Images/archiveSimpleLook/btn_SortAsc_1616.gif');  
+	background-repeat:no-repeat;
+	background-position:left;
+	background-color:transparent;
+	width:20;
+	height:20;
+	text-align:center
+}
+.clssortDesc
+{
+	background-image: url('../Images/archiveSimpleLook/btn_SortDesc_1616.gif'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+	background-position:left;
+	width:20;
+	height:20;
+	text-align:center
+}
+.clsfirst
+{
+	background-image: url('../images/archiveSimpleLook/btn_First_2020.gif'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+	background-position:left;
+	width:20;
+	height:20;
+}
+.clslast
+{
+	background-image: url('../images/archiveSimpleLook/btn_Last_2020.gif'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:20;
+	height:20;
+}
+.clsnext
+{
+	background-image: url('../images/archiveSimpleLook/btn_Next_2020.gif'); 
+	background-repeat:no-repeat;
+
+	background-color:transparent;
+	background-position:left;
+	width:20;
+	height:20;
+}
+.clsprev
+{
+	background-image: url('../images/archiveSimpleLook/btn_Prev_2020.gif'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:20;
+	height:20;
+}
+.clsDisabledsearch
+{
+	/* background-image: url('../images/archiveSimpleLook/btn_Search_dis_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clssearch
+{
+	/* background-image: url('../images/archiveSimpleLook/btn_Search_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsDisabledinsert
+{
+	/* background-image: url('../images/archiveSimpleLook/btn_Add_Dis_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsinsert
+{
+	/* background-image: url('../images/archiveSimpleLook/btn_Add_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsDisableddelete
+{
+	/* background-image: url('../images/archiveSimpleLook/btn_Delete_dis_10622_fa.gif'); */ 
+	background-color:transparent;
+	background-repeat:no-repeat;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsdelete
+{
+	/* background-image: url('../images/archiveSimpleLook/btn_Del_10622_fa.gif'); */ 
+	background-color:transparent;
+	background-repeat:no-repeat;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsedit
+{
+	/* background-image: url('../images/archiveSimpleLook/btn_Edit_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsshowall
+{
+	/* background-image: url('../images/archiveSimpleLook/btn_ShowAll_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsadvsearch
+{
+	/* background-image: url('../images/archiveSimpleLook/btn_AdvSearch_10622_fa.gif'); */ 
+	background-color:transparent;
+	background-repeat:no-repeat;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsreturn
+{
+	background-image: url('../images/archiveSimpleLook/btn_Return_10622_fa.gif'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clscancel
+{
+	/* background-image: url('../images/archiveSimpleLook/btn_Cancel_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+
+	background-color:transparent;
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsedtbtn
+{
+	/* background-image: url('../images/archiveSimpleLook/btn_Edit_1616.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:16;
+	height:16;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsgobtn
+{
+	background-color:transparent;
+	background-image: url('../images/archiveSimpleLook/btn_Go_2020_fa.gif'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:16;
+	height:16;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.pdfbtn
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_pdf.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:16;
+	height:16;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.htmlbtn
+{
+	background-color:transparent;
+	background-image: url('../images/archiveSimpleLook/btn_html.gif'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:16;
+	height:16;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+
+.clscolconf
+{
+	background-color:transparent;
+	background-image: url('../images/archiveSimpleLook/btn_Col_Sel_1616.png'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+	background-position:left;
+	width:16;
+	height:16;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsrcombtn
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/recommendation.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:16;
+	height:16;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsclear
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Delete_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsDisabledclear
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Delete_dis_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+
+
+
+.clsapprove
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Submit_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsunapprove
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Decline_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsarchive
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Archive_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsDisabledsave
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Save_Dis_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clssave
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Save_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsunrefer
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_NoDeliver_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsrefer
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Deliver_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsselectdocument
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_SelectDoc_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsselect
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Select_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsDisabledspin3
+{
+	background-color:transparent;
+/* 	background-image: url('../images/archiveSimpleLook/btn_dis_spin3.gif');  */
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:23;
+	height:10;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsspin3
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_spin3.gif');  */
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:23;
+	height:10;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsspin2
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_spin2.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:23;
+	height:10;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsbspin3
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_bspin3.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:23;
+	height:10;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsbspin2
+{
+	background-color:transparent;
+/* 	background-image: url('../images/archiveSimpleLook/btn_bspin2.gif');  */
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:23;
+	height:10;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsDisabledp1
+{
+	background-color:transparent;
+/* 	background-image: url('../images/archiveSimpleLook/btn_dis_p1.gif');  */
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:23;
+	height:10;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsp1
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_p1.gif');  */
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:23;
+	height:10;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsDisabledp2
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_dis_p2.gif');  */
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:23;
+	height:10;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsp2
+{
+	background-color:transparent;
+/* 	background-image: url('../images/archiveSimpleLook/btn_p2.gif');  */
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:23;
+	height:10;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsmerge
+{
+	background-color:transparent;
+/* 	background-image: url('../images/archiveSimpleLook/btn_Merge_10622_fa.gif');  */
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clstransfer
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Move_10622_fa.gif');  */
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsview
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Show_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsreset
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Delete_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clstempsave
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_TempSave_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clscancel
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Cancel_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsnew
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_New_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsfinalSave
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_FinalSave_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsDisabledshow
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Show_dis_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsshow
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_Show_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsrequestUnLock
+{
+	background-color:transparent;
+	/* background-image: url('../images/archiveSimpleLook/btn_SaveSend_10622_fa.gif'); */ 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:106;
+	height:22;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+.clsviewbtn
+{
+	background-color:transparent;
+	background-image: url('../images/archiveSimpleLook/btn_Show_1616.gif'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:16;
+	height:16;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsprintbtn
+{
+	background-color:transparent;
+	background-image: url('../images/archiveSimpleLook/btn_print.gif'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:16;
+	height:16;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+
+.clsminipageborder
+{
+	border:2px solid #D4DDED; 
+}
+
+.clssavecolconf
+{
+	background-color:transparent;
+	background-image: url('../images/archiveSimpleLook/btn_Save_1616.gif'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:16;
+	height:16;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsTableOddRow{
+	font-family: Tahoma;
+	font-size:11px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FBFFFF;
+	border-right-color: #AFBDD8;
+	border-bottom-color: #7BA7CE;
+	border-left-color: #CFDDE8;
+	vertical-align:middle;
+	background-color: #F9FAFF;
+	padding: 1px 4px;
+	text-align: center;
+}
+
+.clsTableEvenRow{
+	font-family: Tahoma;
+	font-size:11px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FBFFFF;
+	border-right-color: #9FADD8;
+	border-bottom-color: #6B97CE;
+	border-left-color: #CFDDE8;
+	vertical-align:middle;
+	background-color: #E9EAFF;
+	padding: 1px 4px;
+	text-align: center;
+}
+
+.clsTableHeader{
+	border-left:2px solid #CFDDE8; border-right:2px solid #AFBDD8; border-top:1px solid #F8FFFF; border-bottom:1px solid #7BA7CE; font-family: Tahoma;
+	font-size:11px;
+	vertical-align:middle;
+  text-align: center;
+	background-image: url('../images/archiveSimpleLook/table_head.jpg');
+	background-repeat:repeat-x;
+	background-color: #D5E3F0
+}
+
+.clsPrintTableOddRow{
+	font-family: Tahoma;
+	font-size:11px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FBFFFF;
+	border-right-color: #AFBDD8;
+	border-bottom-color: #7BA7CE;
+	border-left-color: #CFDDE8;
+	vertical-align:middle;
+	background-color: #F9FAFF;
+	padding: 1px 4px;
+	text-align: center;
+}
+
+.clsPrintTableEvenRow{
+	font-family: Tahoma;
+	font-size:11px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FBFFFF;
+	border-right-color: #9FADD8;
+	border-bottom-color: #6B97CE;
+	border-left-color: #CFDDE8;
+	vertical-align:middle;
+	background-color: #E9EAFF;
+	padding: 1px 4px;
+	text-align: center;
+}
+
+.clsPrintTableHeader{
+	border-left:2px solid #CFDDE8; border-right:2px solid #AFBDD8; border-top:1px solid #F8FFFF; border-bottom:1px solid #7BA7CE; font-family: Tahoma;
+	font-size:11px;
+	vertical-align:middle;
+  text-align: center;
+	background-image: url('../images/archiveSimpleLook/table_head.jpg');*/
+	background-repeat:repeat-x;
+	background-color: #D5E3F0;
+}
+
+.clspdfbtn
+{
+	background-color:transparent;
+	background-image: url('../images/archiveSimpleLook/btn_pdf.gif'); 
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:16;
+	height:16;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.clsnewbtn
+{
+	background-color:transparent;
+	background-image: url('../images/archiveSimpleLook/new.gif');
+	background-repeat:no-repeat;
+	background-color:transparent;
+
+	background-position:left;
+	width:27;
+	height:16;
+	text-align:center;
+	cursor:hand;
+	border-width:0;
+}
+
+.profileValueText {
+	color:black;
+	font-family:nesf;
+	font-weight:bold;
+	font-size:14px;
+}
+
+.profileLabelText {
+	color:black;
+	font-family:nesf;
+	font-size:14px;	
+}
+
+.profileHeaderText {
+	color:black;
+	font-family:nesf;
+	font-weight:bold;
+	font-size:16px;	
+}
+
+
+.profileTopHeaderText {
+	color:white;
+	text-decoration : underline;
+	font-family:nesf;
+	font-size:14px;	
+}
+
+div.topLinks {
+	text-decoration:none;
+	color : white;
+	font-family:Nesf;
+	cursor: pointer;
+	font-size:12px;
+}
+div.topMenus {
+	text-decoration:underline;
+	color : white;
+	font-family:Nesf;
+	cursor: pointer;
+	font-size:12px;
+}
+.selectedMenuTitle {
+	background-image : url('../images/selectMenuTitle_df.jpg');
+	border:medium none;
+	background-repeat:repeat-x;
+	background-position: left top;
+}
+.selectMenuTitleRight {
+	background-image : url('../images/selectMenuTitleRight_df.jpg');
+	border:medium none;
+	background-position: left top;
+}
+
+.helpDiv
+{
+	top:120;
+	right:200;
+	opacity:1;
+	filter:alpha(opacity=100);
+	position:absolute;
+	background-color: #F0F0F0;
+	width:600px;
+	height:300px;
+	z-index: 9002;
+}
+.footer
+{
+	background-color:#000066;
+	height:20;
+	font-size:10;
+	font-family:Nesf;
+	color : white;
+}
+.bodybackground
+{
+	background-color:#FFFFFF;
+}
+.topStripe
+{
+	background-color:#0D3B9C;
+	height:15;
+} 
+.middleStripe
+{
+	background-color:#0D3B9C;
+	height:5;
+}
+.leftMenuActive {
+	background-image: url('../images/leftMenuActive_df.JPG');
+	background-position: right top;
+	background-repeat:no-repeat;
+	border:medium none;	
+}
+.rightMenu {
+	background-color: #0D3B9C;
+	border-bottom:#666699 1pt solid;
+}
+.rightMenu1 {
+	background-color: #0D3B9C;
+	border-bottom:#666699 1pt solid;
+}
+.rightMenu2 {
+	background-color: #0D3B9C;
+	border-bottom:#666699 1pt solid;
+}
+.rightMenuActive {
+	background-color:#3D4AA9;
+	background-image: url('../images/rightMenuActive_df.jpg');
+	background-position: right top;
+	background-repeat:no-repeat;
+	border:medium none;	
+}
+.rightMenuActive1 {
+	background-color:#3D4AA9;
+	background-image: url('../images/rightMenuActive_df.jpg');
+	background-position: right top;
+	background-repeat:no-repeat;
+	border:medium none;	
+}
+.rightMenuActive2 {
+	background-color:#3D4AA9;
+	background-image: url('../images/rightMenuActive_df.jpg');
+	background-position: right top;
+	background-repeat:no-repeat;
+	border:medium none;	
+}
+.topMenu {
+}
+.topMenuActive {
+	border:none;
+	background-color : #0d3b9c;
+}
+
+.topSubMenuLeftActive {
+	background-image: url('../images/tabSubMenuLeftActive_df.jpg');
+	background-position: right top;
+	background-repeat:no-repeat;
+	border:medium none;	
+	
+}
+.topSubMenuActive {
+	background-image: url('../images/tabSubMenuActive_df.jpg');
+	background-position: top;
+	border:medium none;	
+	
+}
+
+.topSubMenuRightActive {
+	background-image: url('../images/tabSubMenuRightActive_df.jpg');
+	background-position: right top;
+	background-repeat:no-repeat;
+	border:medium none;	
+	
+}
+
+.bottomSubMenuRightActive {
+	background-image: url('../images/bottomSubMenuRightActive_df.jpg');
+	background-position: right top;
+	background-repeat:no-repeat;
+	border:medium none;	
+	
+}
+.bottomSubMenuLeftActive {
+	background-image: url('../images/bottomSubMenuLeftActive_df.jpg');
+	background-position: right top;
+	background-repeat:no-repeat;
+	border:medium none;	
+	
+}
+.bottomSubMenuActive {
+	background-image: url('../images/bottomSubMenuActive_df.jpg');
+	background-position: top;
+	border:medium none;	
+	
+}
+.helpImage{
+	background-image : url('../images/help_df.gif');
+	background-repeat:no-repeat;
+	border:medium none;
+	height:14;
+	width: 14;
+}
+.openImage{
+	background-image : url('../images/open_df.jpg');
+	background-repeat:no-repeat;
+	border:medium none;
+	height:14;
+	width: 14;
+}
+.closeImage{
+	background-image : url('../images/close_df.jpg');
+	background-repeat:no-repeat;
+	border:medium none;
+	height:14;
+	width: 14;
+}
+.style2 {
+	background-color : DDEDFF;
+	background-repeat:no-repeat;
+	border:medium none;
+	height:15;
+	width: 15;
+}
+.style3 {
+	background-color : 393981;
+	background-repeat:no-repeat;
+	border:medium none;
+	height:15;
+	width: 15;
+}
+.default {
+	background-color : 000066;
+	background-repeat:no-repeat;
+	border:medium none;
+	height:15;
+	width: 15;
+}
+.style1 {
+	background-color : 3F0A04;
+	background-repeat:no-repeat;
+	border:medium none;
+	height:15;
+	width: 15;
+}
+</style>
