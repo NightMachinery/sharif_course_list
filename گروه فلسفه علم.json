@@ -58,6 +58,20 @@
   {
     "Group": "1",
     "Credits": "3",
+    "Name": "مطالعه انفرادی",
+    "Prereqs": "",
+    "Capacity": "",
+    "EnrolledStudents": "",
+    "Professor": "",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "42220"
+  },
+  {
+    "Group": "1",
+    "Credits": "3",
     "Name": "فلسفه علم ۱",
     "Prereqs": "",
     "Capacity": "25",
