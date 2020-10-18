@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "Group": "1",
+    "Credits": "1",
+    "Name": "آز مبانی مهندسی برق",
+    "Prereqs": "پيشنياز: 55093و 25093",
+    "Capacity": "2",
+    "EnrolledStudents": "",
+    "Professor": "محمدرضا ذوالقدری",
+    "ExamDate": "",
+    "ClassTime": "دوشنبه 18:0 تا 19:0",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "55007"
+  },
+  {
+    "Group": "1",
+    "Credits": "3",
+    "Name": "مبانی مهندسی برق ۱",
+    "Prereqs": "پيشنياز: 24012و 22016",
+    "Capacity": "40",
+    "EnrolledStudents": "16",
+    "Professor": "محمدرضا ذوالقدری",
+    "ExamDate": "",
+    "ClassTime": "شنبه 9:0 تا 10:30 يکشنبه 16:30 تا 18:0",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "55091"
+  },
+  {
+    "Group": "1",
+    "Credits": "3",
+    "Name": "الکترونیک دیجیتال",
+    "Prereqs": "پيشنياز: 25032و 55032",
+    "Capacity": "15",
+    "EnrolledStudents": "3",
+    "Professor": "خسرو حاج صادقی",
+    "ExamDate": "",
+    "ClassTime": "پنجشنبه 13:30 تا 16:30",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "55262"
+  },
+  {
+    "Group": "1",
+    "Credits": "3",
+    "Name": "شبکه‌های ‌عصبی‌ مصنوعی و کاربردهای ‌آن",
+    "Prereqs": "",
+    "Capacity": "15",
+    "EnrolledStudents": "14",
+    "Professor": "علی اکبرخیاط",
+    "ExamDate": "",
+    "ClassTime": "چهار شنبه 18:0 تا 19:30 پنجشنبه 16:30 تا 18:0",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "55447"
+  },
+  {
+    "Group": "1",
+    "Credits": "3",
+    "Name": "طراحی سیستمهای مجتمع خیلی فشرده دیجیتال",
+    "Prereqs": "",
+    "Capacity": "15",
+    "EnrolledStudents": "3",
+    "Professor": "خسرو حاج صادقی",
+    "ExamDate": "",
+    "ClassTime": "پنجشنبه 9:30 تا 12:30",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "55561"
+  },
+  {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "پایان‌نامه کارشناسی‌ارشد",
+    "Prereqs": "",
+    "Capacity": "30",
+    "EnrolledStudents": "1",
+    "Professor": "امیررضا خوئی",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "55810"
+  }
+]
