@@ -420,20 +420,6 @@
     "CourseID": "20350"
   },
   {
-    "Group": "2",
-    "Credits": "1",
-    "Name": "آز مکانیک خاک",
-    "Prereqs": "پيشنياز: 20411",
-    "Capacity": "35",
-    "EnrolledStudents": "15",
-    "Professor": "حامد صادقی",
-    "ExamDate": "",
-    "ClassTime": "شنبه 7:0 تا 9:0",
-    "Comments": "",
-    "MessageOnSignup": "",
-    "CourseID": "20401"
-  },
-  {
     "Group": "1",
     "Credits": "1",
     "Name": "آز مکانیک خاک",
@@ -443,6 +429,20 @@
     "Professor": "محمدمهدی احمدی",
     "ExamDate": "",
     "ClassTime": "سه شنبه 13:0 تا 15:0",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "20401"
+  },
+  {
+    "Group": "2",
+    "Credits": "1",
+    "Name": "آز مکانیک خاک",
+    "Prereqs": "پيشنياز: 20411",
+    "Capacity": "35",
+    "EnrolledStudents": "15",
+    "Professor": "حامد صادقی",
+    "ExamDate": "",
+    "ClassTime": "شنبه 7:0 تا 9:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20401"

@@ -196,6 +196,20 @@
     "CourseID": "23011"
   },
   {
+    "Group": "15",
+    "Credits": "3",
+    "Name": "شیمی عمومی ۱",
+    "Prereqs": "",
+    "Capacity": "35",
+    "EnrolledStudents": "3",
+    "Professor": "مجتبی باقرزاده",
+    "ExamDate": "1399/11/05   15:00",
+    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0 چهار شنبه 7:30 تا 9:0",
+    "Comments": "ساعات رفع اشکال: چهار شنبه 13:0 تا 14:0",
+    "MessageOnSignup": "",
+    "CourseID": "23011"
+  },
+  {
     "Group": "6",
     "Credits": "3",
     "Name": "شیمی عمومی ۱",
@@ -224,20 +238,6 @@
     "CourseID": "23011"
   },
   {
-    "Group": "15",
-    "Credits": "3",
-    "Name": "شیمی عمومی ۱",
-    "Prereqs": "",
-    "Capacity": "35",
-    "EnrolledStudents": "3",
-    "Professor": "مجتبی باقرزاده",
-    "ExamDate": "1399/11/05   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0 چهار شنبه 7:30 تا 9:0",
-    "Comments": "ساعات رفع اشکال: چهار شنبه 13:0 تا 14:0",
-    "MessageOnSignup": "",
-    "CourseID": "23011"
-  },
-  {
     "Group": "14",
     "Credits": "3",
     "Name": "شیمی عمومی ۱",
@@ -248,6 +248,20 @@
     "ExamDate": "1399/11/05   15:00",
     "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0 چهار شنبه 7:30 تا 9:0",
     "Comments": "ساعات رفع اشکال: چهار شنبه 12:0 تا 13:0",
+    "MessageOnSignup": "",
+    "CourseID": "23011"
+  },
+  {
+    "Group": "13",
+    "Credits": "3",
+    "Name": "شیمی عمومی ۱",
+    "Prereqs": "",
+    "Capacity": "35",
+    "EnrolledStudents": "4",
+    "Professor": "مجتبی باقرزاده",
+    "ExamDate": "1399/11/05   15:00",
+    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0 چهار شنبه 7:30 تا 9:0",
+    "Comments": "ساعات رفع اشکال: چهار شنبه 11:0 تا 12:0",
     "MessageOnSignup": "",
     "CourseID": "23011"
   },
@@ -290,20 +304,6 @@
     "ExamDate": "1399/11/05   15:00",
     "ClassTime": "يکشنبه و سه شنبه و چهار شنبه 7:30 تا 9:0",
     "Comments": "ساعات رفع اشکال: چهار شنبه 13:0 تا 14:0",
-    "MessageOnSignup": "",
-    "CourseID": "23011"
-  },
-  {
-    "Group": "13",
-    "Credits": "3",
-    "Name": "شیمی عمومی ۱",
-    "Prereqs": "",
-    "Capacity": "35",
-    "EnrolledStudents": "4",
-    "Professor": "مجتبی باقرزاده",
-    "ExamDate": "1399/11/05   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0 چهار شنبه 7:30 تا 9:0",
-    "Comments": "ساعات رفع اشکال: چهار شنبه 11:0 تا 12:0",
     "MessageOnSignup": "",
     "CourseID": "23011"
   },
@@ -490,20 +490,6 @@
     "CourseID": "23201"
   },
   {
-    "Group": "1",
-    "Credits": "1",
-    "Name": "آز شیمی تجزیه- م.شیمی",
-    "Prereqs": "پيشنياز: 23001و 23227",
-    "Capacity": "23",
-    "EnrolledStudents": "23",
-    "Professor": "هادی پرستار شهری",
-    "ExamDate": "",
-    "ClassTime": "يکشنبه 13:0 تا 16:0",
-    "Comments": "",
-    "MessageOnSignup": "حضور در اولین جلسه و استفاده از روپوش، دستکش و عینک ایمنی در\n              آزمایشگاه الزامی است.",
-    "CourseID": "23207"
-  },
-  {
     "Group": "2",
     "Credits": "1",
     "Name": "آز شیمی تجزیه- م.شیمی",
@@ -513,6 +499,20 @@
     "Professor": "هادی پرستار شهری",
     "ExamDate": "",
     "ClassTime": "دوشنبه 13:0 تا 16:0",
+    "Comments": "",
+    "MessageOnSignup": "حضور در اولین جلسه و استفاده از روپوش، دستکش و عینک ایمنی در\n              آزمایشگاه الزامی است.",
+    "CourseID": "23207"
+  },
+  {
+    "Group": "1",
+    "Credits": "1",
+    "Name": "آز شیمی تجزیه- م.شیمی",
+    "Prereqs": "پيشنياز: 23001و 23227",
+    "Capacity": "23",
+    "EnrolledStudents": "23",
+    "Professor": "هادی پرستار شهری",
+    "ExamDate": "",
+    "ClassTime": "يکشنبه 13:0 تا 16:0",
     "Comments": "",
     "MessageOnSignup": "حضور در اولین جلسه و استفاده از روپوش، دستکش و عینک ایمنی در\n              آزمایشگاه الزامی است.",
     "CourseID": "23207"
