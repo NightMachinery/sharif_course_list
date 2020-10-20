@@ -924,6 +924,20 @@
     "CourseID": "44019"
   },
   {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "پیشنهاد پژوهشی",
+    "Prereqs": "",
+    "Capacity": "",
+    "EnrolledStudents": "1",
+    "Professor": "سیدعلیرضا فیض بخش بازرگانی",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "برای دانشجویان دکتری مدیریت",
+    "MessageOnSignup": "",
+    "CourseID": "44019"
+  },
+  {
     "Group": "2",
     "Credits": "0",
     "Name": "پیشنهاد پژوهشی",
@@ -952,6 +966,20 @@
     "CourseID": "44019"
   },
   {
+    "Group": "9",
+    "Credits": "0",
+    "Name": "پیشنهاد پژوهشی",
+    "Prereqs": "",
+    "Capacity": "",
+    "EnrolledStudents": "",
+    "Professor": "غلامرضا کشاورزحداد",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "44019"
+  },
+  {
     "Group": "5",
     "Credits": "0",
     "Name": "پیشنهاد پژوهشی",
@@ -959,20 +987,6 @@
     "Capacity": "",
     "EnrolledStudents": "",
     "Professor": "ابراهیم سوزنچی کاشانی",
-    "ExamDate": "",
-    "ClassTime": "",
-    "Comments": "برای دانشجویان دکتری مدیریت",
-    "MessageOnSignup": "",
-    "CourseID": "44019"
-  },
-  {
-    "Group": "1",
-    "Credits": "0",
-    "Name": "پیشنهاد پژوهشی",
-    "Prereqs": "",
-    "Capacity": "",
-    "EnrolledStudents": "1",
-    "Professor": "سیدعلیرضا فیض بخش بازرگانی",
     "ExamDate": "",
     "ClassTime": "",
     "Comments": "برای دانشجویان دکتری مدیریت",
