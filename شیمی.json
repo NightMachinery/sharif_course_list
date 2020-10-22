@@ -8,7 +8,7 @@
     "EnrolledStudents": "1",
     "Professor": "بهرام قنبری",
     "ExamDate": "",
-    "ClassTime": "يکشنبه 13:0 تا 16:0",
+    "ClassTime": "يکشنبه 13:0 تا 16:0 يکشنبه 16:0 تا 19:0",
     "Comments": "مخصوص ورودی 99 ( دانشجویان پردیس مرکزی )",
     "MessageOnSignup": "حضور در اولین جلسه و استفاده از روپوش، دستکش و عینک ایمنی در\n              آزمایشگاه الزامی است.",
     "CourseID": "23001"
@@ -22,7 +22,7 @@
     "EnrolledStudents": "2",
     "Professor": "داود طاهری نیاء",
     "ExamDate": "",
-    "ClassTime": "چهار شنبه 13:0 تا 16:0",
+    "ClassTime": "چهار شنبه 13:0 تا 16:0 چهار شنبه 16:0 تا 19:0",
     "Comments": "مخصوص ورودی 99 ( دانشجویان پردیس مرکزی )",
     "MessageOnSignup": "حضور در اولین جلسه و استفاده از روپوش، دستکش و عینک ایمنی در\n              آزمایشگاه الزامی است.",
     "CourseID": "23001"
@@ -64,7 +64,7 @@
     "EnrolledStudents": "2",
     "Professor": "مجتبی باقرزاده",
     "ExamDate": "",
-    "ClassTime": "شنبه 13:0 تا 16:0",
+    "ClassTime": "شنبه 13:0 تا 16:0 شنبه 16:0 تا 19:0",
     "Comments": "مخصوص ورودی 99 ( دانشجویان پردیس مرکزی )",
     "MessageOnSignup": "حضور در اولین جلسه و استفاده از روپوش، دستکش و عینک ایمنی در\n              آزمایشگاه الزامی است.",
     "CourseID": "23001"
@@ -78,7 +78,7 @@
     "EnrolledStudents": "2",
     "Professor": "علی رضا فتاحی",
     "ExamDate": "",
-    "ClassTime": "سه شنبه 13:0 تا 16:0",
+    "ClassTime": "سه شنبه 13:0 تا 16:0 سه شنبه 16:0 تا 19:0",
     "Comments": "مخصوص ورودی 99 ( دانشجویان پردیس مرکزی )",
     "MessageOnSignup": "حضور در اولین جلسه و استفاده از روپوش، دستکش و عینک ایمنی در\n              آزمایشگاه الزامی است.",
     "CourseID": "23001"
@@ -92,7 +92,7 @@
     "EnrolledStudents": "1",
     "Professor": "سیروس جمالی",
     "ExamDate": "",
-    "ClassTime": "دوشنبه 13:0 تا 16:0",
+    "ClassTime": "دوشنبه 13:0 تا 16:0 دوشنبه 16:0 تا 19:0",
     "Comments": "مخصوص ورودی 99 ( دانشجویان پردیس مرکزی )",
     "MessageOnSignup": "حضور در اولین جلسه و استفاده از روپوش، دستکش و عینک ایمنی در\n              آزمایشگاه الزامی است.",
     "CourseID": "23001"
@@ -1170,7 +1170,7 @@
     "EnrolledStudents": "1",
     "Professor": "مجتبی باقرزاده",
     "ExamDate": "1399/10/27   15:00",
-    "ClassTime": "شنبه و دوشنبه 7:30 تا 9:0",
+    "ClassTime": "شنبه و دوشنبه 7:30 تا 9:0 دوشنبه 13:0 تا 14:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23155"
@@ -1184,7 +1184,7 @@
     "EnrolledStudents": "2",
     "Professor": "سیروس جمالی",
     "ExamDate": "1399/10/30   09:00",
-    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
+    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 چهار شنبه 12:0 تا 13:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23158"
@@ -1198,7 +1198,7 @@
     "EnrolledStudents": "1",
     "Professor": "حبیب باقری",
     "ExamDate": "1399/11/01   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
+    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0 سه شنبه 15:0 تا 16:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23235"
@@ -1240,7 +1240,7 @@
     "EnrolledStudents": "",
     "Professor": "علی رضا فتاحی",
     "ExamDate": "1399/10/30   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 7:30 تا 9:0",
+    "ClassTime": "يکشنبه و سه شنبه 7:30 تا 9:0 چهار شنبه 17:30 تا 19:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23355"
@@ -1254,7 +1254,7 @@
     "EnrolledStudents": "",
     "Professor": "علی محمد نسیمی",
     "ExamDate": "1399/11/04   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
+    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0 چهار شنبه 9:0 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23446"
@@ -1268,7 +1268,7 @@
     "EnrolledStudents": "1",
     "Professor": "شهربانو رحمان ستایش",
     "ExamDate": "1399/10/22   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30",
+    "ClassTime": "شنبه 14:0 تا 15:30 يکشنبه و سه شنبه 15:0 تا 16:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23455"
@@ -1324,7 +1324,7 @@
     "EnrolledStudents": "",
     "Professor": "علی رضا فتاحی",
     "ExamDate": "1399/10/29   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
+    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0 دوشنبه 7:30 تا 9:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23703"
@@ -1352,7 +1352,7 @@
     "EnrolledStudents": "",
     "Professor": "سعید شاهرخیان دهکردی، پرستار شهری",
     "ExamDate": "1399/11/05   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
+    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30 چهار شنبه 13:30 تا 15:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23935"
@@ -1408,7 +1408,7 @@
     "EnrolledStudents": "3",
     "Professor": "علی رضا فتاحی",
     "ExamDate": "1399/10/23   09:00",
-    "ClassTime": "شنبه و چهار شنبه 9:0 تا 10:30",
+    "ClassTime": "شنبه و چهار شنبه 9:0 تا 10:30 دوشنبه 17:30 تا 19:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23347"
@@ -1534,7 +1534,7 @@
     "EnrolledStudents": "1",
     "Professor": "فیروز مطلوبی مقدم",
     "ExamDate": "1399/11/01   09:00",
-    "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
+    "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0 چهار شنبه 16:0 تا 17:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23782"
@@ -1548,7 +1548,7 @@
     "EnrolledStudents": "",
     "Professor": "افشین شفیعی",
     "ExamDate": "1399/11/05   15:00",
-    "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
+    "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0 سه شنبه 13:0 تا 14:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23795"
@@ -1576,7 +1576,7 @@
     "EnrolledStudents": "",
     "Professor": "رضا کیا",
     "ExamDate": "1399/10/22   15:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه 14:0 تا 15:30 يکشنبه 17:0 تا 18:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23801"
@@ -1590,7 +1590,7 @@
     "EnrolledStudents": "",
     "Professor": "سعید شاهرخیان دهکردی",
     "ExamDate": "1399/10/29   09:00",
-    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
+    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 يکشنبه 13:30 تا 15:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23802"
@@ -1618,7 +1618,7 @@
     "EnrolledStudents": "3",
     "Professor": "زهرا جمشیدی",
     "ExamDate": "1399/10/24   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30",
+    "ClassTime": "يکشنبه و دوشنبه و سه شنبه 15:0 تا 16:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23974"
