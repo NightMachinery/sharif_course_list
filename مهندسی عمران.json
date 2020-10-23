@@ -1016,7 +1016,7 @@
     "EnrolledStudents": "8",
     "Professor": "یوسف شفاهی",
     "ExamDate": "1399/10/27   09:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0 سه شنبه 13:30 تا 15:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20308"
@@ -1086,7 +1086,7 @@
     "EnrolledStudents": "",
     "Professor": "نادر طباطبائی",
     "ExamDate": "1399/11/04   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 15:0 تا 16:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20438"
@@ -1156,7 +1156,7 @@
     "EnrolledStudents": "",
     "Professor": "نادر طباطبائی",
     "ExamDate": "1399/10/30   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 9:0 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20503"
@@ -1170,7 +1170,7 @@
     "EnrolledStudents": "3",
     "Professor": "حبیب اله نصیری",
     "ExamDate": "1399/11/05   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
+    "ClassTime": "يکشنبه و سه شنبه و چهار شنبه 10:30 تا 12:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20551"
@@ -1184,7 +1184,7 @@
     "EnrolledStudents": "8",
     "Professor": "حبیب اله نصیری",
     "ExamDate": "1399/10/30   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
+    "ClassTime": "يکشنبه و سه شنبه و چهار شنبه 9:0 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20552"
@@ -1198,7 +1198,7 @@
     "EnrolledStudents": "5",
     "Professor": "امیر صمیمی",
     "ExamDate": "1399/10/24   09:00",
-    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
+    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 چهار شنبه 7:30 تا 9:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20557"
@@ -1212,7 +1212,7 @@
     "EnrolledStudents": "9",
     "Professor": "یوسف شفاهی",
     "ExamDate": "1399/10/24   09:00",
-    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
+    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 يکشنبه 13:30 تا 15:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20582"
@@ -1226,7 +1226,7 @@
     "EnrolledStudents": "4",
     "Professor": "محمد کرمانشاه",
     "ExamDate": "1399/10/22   09:00",
-    "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 13:30 تا 15:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20591"
@@ -1240,7 +1240,7 @@
     "EnrolledStudents": "14",
     "Professor": "حسین پورزاهدی",
     "ExamDate": "1399/10/22   09:00",
-    "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 13:30 تا 15:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20595"
