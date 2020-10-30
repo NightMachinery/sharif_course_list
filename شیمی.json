@@ -1212,7 +1212,7 @@
     "EnrolledStudents": "",
     "Professor": "محمدرضا هرمزی نژاد",
     "ExamDate": "1399/10/27   09:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0 شنبه 12:0 تا 13:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23253"
@@ -1293,7 +1293,7 @@
     "Name": "پایان‌نامه کارشناسی‌ارشد",
     "Prereqs": "",
     "Capacity": "",
-    "EnrolledStudents": "42",
+    "EnrolledStudents": "43",
     "Professor": "",
     "ExamDate": "",
     "ClassTime": "",
@@ -1604,7 +1604,7 @@
     "EnrolledStudents": "",
     "Professor": "بهرام قنبری",
     "ExamDate": "1399/10/24   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
+    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30 سه شنبه 14:0 تا 15:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23973"

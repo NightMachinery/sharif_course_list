@@ -1306,8 +1306,8 @@
     "Credits": "3",
     "Name": "طراحی بهینه",
     "Prereqs": "",
-    "Capacity": "12",
-    "EnrolledStudents": "12",
+    "Capacity": "13",
+    "EnrolledStudents": "13",
     "Professor": "سعید خدایگان",
     "ExamDate": "1399/10/23   09:00",
     "ClassTime": "يکشنبه و سه شنبه 13:30 تا 15:0",
@@ -1324,7 +1324,7 @@
     "EnrolledStudents": "19",
     "Professor": "علی موسوی",
     "ExamDate": "1399/11/02   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 13:30 تا 15:0",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 13:30 تا 15:0",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28031"
@@ -1338,7 +1338,7 @@
     "EnrolledStudents": "1",
     "Professor": "امیر نورانی",
     "ExamDate": "1399/11/02   09:00",
-    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
+    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 چهار شنبه 13:30 تا 15:0",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28031"
@@ -1352,7 +1352,7 @@
     "EnrolledStudents": "6",
     "Professor": "علیرضا طاهری",
     "ExamDate": "1399/11/02   09:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:30",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28031"
@@ -1394,7 +1394,7 @@
     "EnrolledStudents": "4",
     "Professor": "رضا نقدآبادی",
     "ExamDate": "1399/11/01   09:00",
-    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
+    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 شنبه 15:0 تا 16:30",
     "Comments": "این درس از آبان ماه ارائه میگردد. فقط مخصوص مکانیک",
     "MessageOnSignup": "",
     "CourseID": "28033"
@@ -1408,7 +1408,7 @@
     "EnrolledStudents": "6",
     "Professor": "محمدحسن سعیدی",
     "ExamDate": "1399/11/05   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
+    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0 چهار شنبه 13:30 تا 15:30",
     "Comments": "این درس از آبان ماه ارائه میگردد",
     "MessageOnSignup": "",
     "CourseID": "28037"
@@ -1422,7 +1422,7 @@
     "EnrolledStudents": "",
     "Professor": "مهدی خراسانچی",
     "ExamDate": "",
-    "ClassTime": "شنبه 13:0 تا 15:0",
+    "ClassTime": "شنبه 13:0 تا 15:0 چهار شنبه 8:0 تا 9:0",
     "Comments": "این درس از آبان ماه ارائه میگردد",
     "MessageOnSignup": "",
     "CourseID": "28040"
@@ -1450,7 +1450,7 @@
     "EnrolledStudents": "2",
     "Professor": "علی موسوی",
     "ExamDate": "",
-    "ClassTime": "يکشنبه 15:0 تا 17:0",
+    "ClassTime": "يکشنبه و سه شنبه 15:0 تا 17:0",
     "Comments": "این درس از آبان ماه ارائه میگردد",
     "MessageOnSignup": "",
     "CourseID": "28040"
@@ -1478,7 +1478,7 @@
     "EnrolledStudents": "4",
     "Professor": "حسین رضوان طلب",
     "ExamDate": "1399/11/01   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 7:30 تا 9:0",
+    "ClassTime": "يکشنبه و سه شنبه 7:0 تا 9:0",
     "Comments": "این درس از آبان ماه ارائه میگردد",
     "MessageOnSignup": "",
     "CourseID": "28043"
@@ -1492,7 +1492,7 @@
     "EnrolledStudents": "4",
     "Professor": "آریا الستی",
     "ExamDate": "1399/11/04   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 13:30 تا 15:0",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 13:30 تا 15:0",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28045"
@@ -1506,7 +1506,7 @@
     "EnrolledStudents": "5",
     "Professor": "حسن سالاریه",
     "ExamDate": "1399/11/04   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 15:0 تا 16:30",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28045"
@@ -1520,7 +1520,7 @@
     "EnrolledStudents": "5",
     "Professor": "حسین نجات پیش کناری",
     "ExamDate": "1399/10/30   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
+    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30 دوشنبه 16:30 تا 18:0",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28046"
@@ -1534,7 +1534,7 @@
     "EnrolledStudents": "2",
     "Professor": "علی مقداری",
     "ExamDate": "1399/10/29   09:00",
-    "ClassTime": "شنبه و دوشنبه 15:0 تا 16:30",
+    "ClassTime": "شنبه و دوشنبه 15:0 تا 17:0",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28046"
@@ -1604,7 +1604,7 @@
     "EnrolledStudents": "",
     "Professor": "بهار دهقانی فیروزآبادی",
     "ExamDate": "1399/11/04   09:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:30",
     "Comments": "این درس از آبان ماه ارائه میگردد",
     "MessageOnSignup": "",
     "CourseID": "28069"
@@ -1646,7 +1646,7 @@
     "EnrolledStudents": "7",
     "Professor": "امیر شاملو",
     "ExamDate": "1399/11/02   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30",
+    "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30 سه شنبه 18:0 تا 19:0",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28192"
@@ -1660,7 +1660,7 @@
     "EnrolledStudents": "",
     "Professor": "مهدی خراسانچی",
     "ExamDate": "1399/11/05   09:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0 چهار شنبه 9:0 تا 10:30",
     "Comments": "این درس از آبان ماه ارائه میگردد",
     "MessageOnSignup": "",
     "CourseID": "28195"
@@ -1772,7 +1772,7 @@
     "EnrolledStudents": "4",
     "Professor": "احمد عاصم پور",
     "ExamDate": "1399/10/22   09:00",
-    "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
+    "ClassTime": "شنبه و دوشنبه 12:30 تا 15:0",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28537"
@@ -1870,7 +1870,7 @@
     "EnrolledStudents": "13",
     "Professor": "غلامحسین فرهی",
     "ExamDate": "1399/10/27   09:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0 يکشنبه 16:30 تا 18:0",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28593"
@@ -1926,7 +1926,7 @@
     "EnrolledStudents": "8",
     "Professor": "فرزام فرهمند",
     "ExamDate": "1399/10/27   09:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:30",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28904"
@@ -1940,7 +1940,7 @@
     "EnrolledStudents": "2",
     "Professor": "مجید عباس پورطهرانی فرد",
     "ExamDate": "1399/11/04   09:00",
-    "ClassTime": "شنبه و دوشنبه 15:0 تا 16:30",
+    "ClassTime": "شنبه و دوشنبه 15:0 تا 17:30",
     "Comments": "این درس از آبان ماه ارائه میگردد",
     "MessageOnSignup": "",
     "CourseID": "28961"
@@ -1993,7 +1993,7 @@
     "Name": "پیشنهاد پژوهشی",
     "Prereqs": "",
     "Capacity": "",
-    "EnrolledStudents": "16",
+    "EnrolledStudents": "17",
     "Professor": "",
     "ExamDate": "",
     "ClassTime": "",

@@ -746,7 +746,7 @@
     "Credits": "3",
     "Name": "رفتار شکل‌پذیر سازه‌های فولادی",
     "Prereqs": "",
-    "Capacity": "30",
+    "Capacity": "3",
     "EnrolledStudents": "3",
     "Professor": "سیدوحید خونساری",
     "ExamDate": "1399/10/29   09:00",
@@ -764,7 +764,7 @@
     "EnrolledStudents": "3",
     "Professor": "ساناز مقیم",
     "ExamDate": "1399/10/30   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 9:0 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20014"
@@ -778,7 +778,7 @@
     "EnrolledStudents": "2",
     "Professor": "مرتضی اسکندری",
     "ExamDate": "1399/11/01   09:00",
-    "ClassTime": "شنبه و دوشنبه 7:30 تا 9:0",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 7:30 تا 9:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20014"
@@ -792,7 +792,7 @@
     "EnrolledStudents": "7",
     "Professor": "فیاض رحیم زاده روفوئی",
     "ExamDate": "1399/10/30   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 9:0 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20014"
@@ -806,7 +806,7 @@
     "EnrolledStudents": "8",
     "Professor": "مجتبی محصولی",
     "ExamDate": "1399/10/27   15:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:30 چهار شنبه 9:30 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20130"
@@ -820,7 +820,7 @@
     "EnrolledStudents": "1",
     "Professor": "حسین محمدی شجاع",
     "ExamDate": "1399/10/23   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 13:30 تا 15:0",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 13:30 تا 15:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20138"
@@ -834,7 +834,7 @@
     "EnrolledStudents": "3",
     "Professor": "همایون اسمعیل پوراستکانچی",
     "ExamDate": "1399/10/23   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 13:30 تا 15:0",
+    "ClassTime": "يکشنبه و سه شنبه و چهار شنبه 13:30 تا 15:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20139"
@@ -848,7 +848,7 @@
     "EnrolledStudents": "3",
     "Professor": "محمدتقی کاظمی",
     "ExamDate": "1399/10/24   09:00",
-    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
+    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 دوشنبه 7:30 تا 9:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20142"
@@ -862,7 +862,7 @@
     "EnrolledStudents": "",
     "Professor": "امیررضا خوئی",
     "ExamDate": "1399/10/22   09:00",
-    "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 13:30 تا 15:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20149"
@@ -876,7 +876,7 @@
     "EnrolledStudents": "",
     "Professor": "علی بخشی",
     "ExamDate": "1399/11/05   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 10:30 تا 12:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20153"
@@ -890,7 +890,7 @@
     "EnrolledStudents": "7",
     "Professor": "کیارش محتشم دولتشاهی",
     "ExamDate": "1399/10/27   15:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0 چهار شنبه 9:0 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20153"
@@ -900,7 +900,7 @@
     "Credits": "3",
     "Name": "مهندسی زلزله پیشرفته",
     "Prereqs": "",
-    "Capacity": "25",
+    "Capacity": "14",
     "EnrolledStudents": "14",
     "Professor": "فیاض رحیم زاده روفوئی",
     "ExamDate": "1399/10/22   15:00",
@@ -918,7 +918,7 @@
     "EnrolledStudents": "1",
     "Professor": "حسن علیجانی مقدم",
     "ExamDate": "1399/10/30   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 9:0 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20165"
@@ -928,7 +928,7 @@
     "Credits": "3",
     "Name": "تکنولوژی عالی بتن",
     "Prereqs": "",
-    "Capacity": "21",
+    "Capacity": "20",
     "EnrolledStudents": "20",
     "Professor": "علیرضا خالو",
     "ExamDate": "1399/10/27   15:00",
@@ -942,7 +942,7 @@
     "Credits": "3",
     "Name": "طراحی پل‌های فولادی",
     "Prereqs": "",
-    "Capacity": "20",
+    "Capacity": "6",
     "EnrolledStudents": "6",
     "Professor": "شروین ملکی",
     "ExamDate": "1399/10/23   09:00",
@@ -960,7 +960,7 @@
     "EnrolledStudents": "",
     "Professor": "ابوالفضل شمسائی",
     "ExamDate": "1399/10/27   09:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 10:30 تا 12:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20253"
@@ -1016,7 +1016,7 @@
     "EnrolledStudents": "8",
     "Professor": "یوسف شفاهی",
     "ExamDate": "1399/10/27   09:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0 سه شنبه 13:30 تا 15:0",
+    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:30 سه شنبه 13:30 تا 15:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20308"
@@ -1030,7 +1030,7 @@
     "EnrolledStudents": "5",
     "Professor": "حامد صادقی",
     "ExamDate": "1399/10/29   09:00",
-    "ClassTime": "شنبه و دوشنبه 15:0 تا 16:30",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 15:0 تا 16:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20406"
@@ -1044,7 +1044,7 @@
     "EnrolledStudents": "1",
     "Professor": "علی پاک",
     "ExamDate": "1399/10/27   15:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 10:30 تا 12:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20409"
@@ -1058,7 +1058,7 @@
     "EnrolledStudents": "1",
     "Professor": "فردین جعفرزاده",
     "ExamDate": "1399/10/29   09:00",
-    "ClassTime": "شنبه و دوشنبه 15:0 تا 16:30",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 15:0 تا 16:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20410"
@@ -1072,7 +1072,7 @@
     "EnrolledStudents": "2",
     "Professor": "محمدمهدی احمدی",
     "ExamDate": "1399/10/22   09:00",
-    "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 13:30 تا 15:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20418"
@@ -1100,7 +1100,7 @@
     "EnrolledStudents": "",
     "Professor": "سیدمحسن حائری",
     "ExamDate": "1399/10/24   15:00",
-    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 9:0 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20440"
@@ -1114,7 +1114,7 @@
     "EnrolledStudents": "1",
     "Professor": "سیدمحسن حائری",
     "ExamDate": "1399/10/27   15:00",
-    "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 10:30 تا 12:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20441"
@@ -1128,7 +1128,7 @@
     "EnrolledStudents": "10",
     "Professor": "علی پاک",
     "ExamDate": "1399/10/24   15:00",
-    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 9:0 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20442"
@@ -1254,7 +1254,7 @@
     "EnrolledStudents": "2",
     "Professor": "محمد ارحامی",
     "ExamDate": "1399/11/01   09:00",
-    "ClassTime": "شنبه و دوشنبه 7:30 تا 9:0",
+    "ClassTime": "شنبه و دوشنبه و پنجشنبه 7:30 تا 9:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20604"
@@ -1282,7 +1282,7 @@
     "EnrolledStudents": "18",
     "Professor": "محمد دانش یزدی",
     "ExamDate": "1399/10/24   09:00",
-    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
+    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 چهار شنبه 7:30 تا 9:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20607"
@@ -1296,7 +1296,7 @@
     "EnrolledStudents": "2",
     "Professor": "محمد دانش یزدی",
     "ExamDate": "1399/11/04   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30",
+    "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30 چهار شنبه 16:30 تا 18:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20647"
@@ -1310,7 +1310,7 @@
     "EnrolledStudents": "",
     "Professor": "محمدمسعود آقامحمدحسین تجریشی",
     "ExamDate": "1399/11/04   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 16:30 تا 18:0",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 16:30 تا 18:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20668"
@@ -1324,7 +1324,7 @@
     "EnrolledStudents": "3",
     "Professor": "محسن قائمیان",
     "ExamDate": "1399/10/23   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 13:30 تا 15:0",
+    "ClassTime": "يکشنبه و سه شنبه 13:30 تا 15:0 دوشنبه 15:0 تا 16:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20670"
@@ -1338,7 +1338,7 @@
     "EnrolledStudents": "7",
     "Professor": "محمد راعی",
     "ExamDate": "1399/11/05   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 10:30 تا 12:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20676"
@@ -1352,7 +1352,7 @@
     "EnrolledStudents": "16",
     "Professor": "عمار صفائی نعمت اللهی",
     "ExamDate": "1399/11/05   15:00",
-    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 10:30 تا 12:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20702"
@@ -1380,7 +1380,7 @@
     "EnrolledStudents": "12",
     "Professor": "وهب توفیق",
     "ExamDate": "1399/11/01   09:00",
-    "ClassTime": "شنبه و دوشنبه 7:30 تا 9:0",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 7:30 تا 9:0",
     "Comments": "عنوان درس : ترمیم و بهسازی سازه ها",
     "MessageOnSignup": "عنوان درس : ترمیم و بهسازی سازه ها",
     "CourseID": "20893"
@@ -1422,7 +1422,7 @@
     "EnrolledStudents": "",
     "Professor": "حسن علیجانی مقدم",
     "ExamDate": "",
-    "ClassTime": "چهار شنبه 8:0 تا 9:30",
+    "ClassTime": "چهار شنبه 8:0 تا 9:30 پنجشنبه 10:30 تا 11:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "20925"
@@ -1559,7 +1559,7 @@
     "Name": "پیشنهاد پژوهشی",
     "Prereqs": "",
     "Capacity": "",
-    "EnrolledStudents": "9",
+    "EnrolledStudents": "10",
     "Professor": "فیاض رحیم زاده روفوئی",
     "ExamDate": "",
     "ClassTime": "",
