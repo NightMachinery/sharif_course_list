@@ -478,20 +478,6 @@
   {
     "Group": "1",
     "Credits": "3",
-    "Name": "طراحی آزمایش‌ها",
-    "Prereqs": "پيشنياز: 21012",
-    "Capacity": "20",
-    "EnrolledStudents": "",
-    "Professor": "سیدتقی اخوان نیاکی",
-    "ExamDate": "1399/11/05   09:00",
-    "ClassTime": "يکشنبه و سه شنبه و چهار شنبه 10:30 تا 12:0",
-    "Comments": "شروع کلاس از آبان 99حداکثر ظرفیت برای ورودی های 1398 دانشکده\n              مهندسی صنایع 6 می باشد.",
-    "MessageOnSignup": "شروع کلاس از آبان 99",
-    "CourseID": "21015"
-  },
-  {
-    "Group": "1",
-    "Credits": "3",
     "Name": "داده کاوی",
     "Prereqs": "",
     "Capacity": "20",
@@ -672,20 +658,6 @@
     "CourseID": "21850"
   },
   {
-    "Group": "2",
-    "Credits": "2",
-    "Name": "سمینار کارشناسی‌ارشد",
-    "Prereqs": "",
-    "Capacity": "12",
-    "EnrolledStudents": "12",
-    "Professor": "محسن ورمزیار",
-    "ExamDate": "1399/11/04   15:00",
-    "ClassTime": "سه شنبه 16:30 تا 18:30",
-    "Comments": "",
-    "MessageOnSignup": "",
-    "CourseID": "21915"
-  },
-  {
     "Group": "3",
     "Credits": "2",
     "Name": "سمینار کارشناسی‌ارشد",
@@ -695,6 +667,20 @@
     "Professor": "سید مصطفی مصطفوی",
     "ExamDate": "1399/10/23   15:00",
     "ClassTime": "شنبه 16:30 تا 18:30",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "21915"
+  },
+  {
+    "Group": "2",
+    "Credits": "2",
+    "Name": "سمینار کارشناسی‌ارشد",
+    "Prereqs": "",
+    "Capacity": "12",
+    "EnrolledStudents": "12",
+    "Professor": "محسن ورمزیار",
+    "ExamDate": "1399/11/04   15:00",
+    "ClassTime": "سه شنبه 16:30 تا 18:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "21915"
