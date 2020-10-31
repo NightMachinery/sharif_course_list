@@ -1366,7 +1366,7 @@
     "EnrolledStudents": "2",
     "Professor": "محمود حصاركی",
     "ExamDate": "1399/11/02   09:00",
-    "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
+    "ClassTime": "شنبه و دوشنبه و چهار شنبه 13:30 تا 15:0",
     "Comments": "این درس از آبان ماه ارائه میگردد.",
     "MessageOnSignup": "",
     "CourseID": "28031"
@@ -1867,7 +1867,7 @@
     "Name": "شکست خستگی و خزش",
     "Prereqs": "",
     "Capacity": "20",
-    "EnrolledStudents": "13",
+    "EnrolledStudents": "14",
     "Professor": "غلامحسین فرهی",
     "ExamDate": "1399/10/27   09:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0 يکشنبه 16:30 تا 18:0",

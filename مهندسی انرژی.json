@@ -442,7 +442,7 @@
     "EnrolledStudents": "",
     "Professor": "مهرداد بروشکی",
     "ExamDate": "1399/10/30   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 9:0 تا 10:30",
     "Comments": "شروع کلاس از آبان ماه",
     "MessageOnSignup": "",
     "CourseID": "46392"
@@ -456,7 +456,7 @@
     "EnrolledStudents": "4",
     "Professor": "مهرداد بروشکی",
     "ExamDate": "1399/11/05   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 10:30 تا 12:0",
     "Comments": "شروع کلاس از آبان ماه",
     "MessageOnSignup": "شروع کلاس از آبان ماه",
     "CourseID": "46393"

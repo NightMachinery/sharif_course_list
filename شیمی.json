@@ -1293,7 +1293,7 @@
     "Name": "پایان‌نامه کارشناسی‌ارشد",
     "Prereqs": "",
     "Capacity": "",
-    "EnrolledStudents": "43",
+    "EnrolledStudents": "45",
     "Professor": "",
     "ExamDate": "",
     "ClassTime": "",
@@ -1520,7 +1520,7 @@
     "EnrolledStudents": "3",
     "Professor": "حمیدرضا کلهر",
     "ExamDate": "1399/10/29   15:00",
-    "ClassTime": "دوشنبه 17:30 تا 19:0 چهار شنبه 16:30 تا 18:0",
+    "ClassTime": "چهار شنبه 16:30 تا 18:0 چهار شنبه 18:0 تا 19:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "23765"
