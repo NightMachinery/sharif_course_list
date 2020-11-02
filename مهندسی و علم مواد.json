@@ -467,7 +467,7 @@
     "Name": "اصول مهندسی سطح",
     "Prereqs": "پيشنياز: 27048",
     "Capacity": "35",
-    "EnrolledStudents": "34",
+    "EnrolledStudents": "35",
     "Professor": "امیرمصطفی امیرجانی",
     "ExamDate": "1399/10/27   15:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
@@ -708,7 +708,7 @@
     "EnrolledStudents": "",
     "Professor": "ابوالقاسم دولتی",
     "ExamDate": "1399/10/22   09:00",
-    "ClassTime": "شنبه 14:0 تا 17:0",
+    "ClassTime": "شنبه 8:0 تا 11:0",
     "Comments": "شیمی 5",
     "MessageOnSignup": "",
     "CourseID": "27297"
@@ -1058,7 +1058,7 @@
     "EnrolledStudents": "1",
     "Professor": "ابوالقاسم دولتی",
     "ExamDate": "1399/10/24   09:00",
-    "ClassTime": "سه شنبه 15:0 تا 18:0",
+    "ClassTime": "يکشنبه 8:0 تا 11:0",
     "Comments": "کنفرانس 2",
     "MessageOnSignup": "",
     "CourseID": "27939"

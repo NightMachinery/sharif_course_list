@@ -331,7 +331,7 @@
     "Professor": "کاظم هجران فر",
     "ExamDate": "1399/10/22   09:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: دوشنبه 19:0 تا 20:0",
     "MessageOnSignup": "",
     "CourseID": "45124"
   },
@@ -457,7 +457,7 @@
     "Professor": "هادی نوبهاری",
     "ExamDate": "1399/11/01   09:00",
     "ClassTime": "يکشنبه و سه شنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: يکشنبه 16:0 تا 17:0",
     "MessageOnSignup": "",
     "CourseID": "45135"
   },
@@ -862,7 +862,7 @@
     "EnrolledStudents": "2",
     "Professor": "نیما اسدیان",
     "ExamDate": "1399/10/30   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 13:30 تا 15:0",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 13:30 تا 15:0",
     "Comments": "شروع کلاس ها از آبان ماه",
     "MessageOnSignup": "",
     "CourseID": "45780"
@@ -890,7 +890,7 @@
     "EnrolledStudents": "3",
     "Professor": "مسعود دربندی",
     "ExamDate": "1399/10/27   09:00",
-    "ClassTime": "شنبه و دوشنبه 16:30 تا 18:0",
+    "ClassTime": "شنبه و دوشنبه 16:30 تا 18:0 پنجشنبه 13:30 تا 15:0",
     "Comments": "شروع کلاس ها از آبان ماه",
     "MessageOnSignup": "",
     "CourseID": "45805"
@@ -904,7 +904,7 @@
     "EnrolledStudents": "1",
     "Professor": "کریم مظاهری",
     "ExamDate": "1399/10/27   09:00",
-    "ClassTime": "شنبه و دوشنبه 16:30 تا 18:0",
+    "ClassTime": "شنبه و دوشنبه 16:30 تا 18:0 پنجشنبه 13:30 تا 15:0",
     "Comments": "شروع کلاس ها از آبان ماه",
     "MessageOnSignup": "",
     "CourseID": "45805"
@@ -973,7 +973,7 @@
     "Capacity": "10",
     "EnrolledStudents": "4",
     "Professor": "کریم مظاهری",
-    "ExamDate": "1399/11/05   09:00",
+    "ExamDate": "1399/10/22   09:00",
     "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
     "Comments": "شروع کلاس ها از آبان ماه",
     "MessageOnSignup": "",
@@ -987,7 +987,7 @@
     "Capacity": "10",
     "EnrolledStudents": "4",
     "Professor": "محمد طیبی رهنی",
-    "ExamDate": "1399/11/05   15:00",
+    "ExamDate": "1399/10/22   09:00",
     "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
     "Comments": "شروع کلاس ها از آبان ماه",
     "MessageOnSignup": "",
@@ -1059,7 +1059,7 @@
     "Professor": "محمد رضا مراد",
     "ExamDate": "1399/10/27   09:00",
     "ClassTime": "شنبه و دوشنبه 16:30 تا 18:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "45951"
   },

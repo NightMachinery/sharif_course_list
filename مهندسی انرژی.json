@@ -1,20 +1,6 @@
 [
   {
     "Group": "1",
-    "Credits": "1",
-    "Name": "آزمایشگاه فیزیک هسته‌ای",
-    "Prereqs": "پيشنياز: 46500",
-    "Capacity": "8",
-    "EnrolledStudents": "4",
-    "Professor": "جواد کوچک پور نصفجی",
-    "ExamDate": "1399/10/23   15:00",
-    "ClassTime": "شنبه 16:30 تا 18:0",
-    "Comments": "",
-    "MessageOnSignup": "",
-    "CourseID": "46501"
-  },
-  {
-    "Group": "1",
     "Credits": "2",
     "Name": "فیزیک هسته ای 1",
     "Prereqs": "",
@@ -65,7 +51,7 @@
     "Professor": "اکرم عوامی",
     "ExamDate": "1399/10/22   09:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "شروع کلاس از آبان ماه",
     "MessageOnSignup": "",
     "CourseID": "46310"
   },
@@ -79,7 +65,7 @@
     "Professor": "رامین روشن دل",
     "ExamDate": "1399/10/27   09:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0 سه شنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "شروع کلاس از آبان ماه",
     "MessageOnSignup": "",
     "CourseID": "46311"
   },
@@ -93,7 +79,7 @@
     "Professor": "عباس رجبی قهنویه",
     "ExamDate": "1399/10/24   09:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "شروع کلاس از آبان ماه",
     "MessageOnSignup": "",
     "CourseID": "46312"
   },
@@ -107,7 +93,7 @@
     "Professor": "یداله سبوحی",
     "ExamDate": "1399/10/27   09:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "46333"
   },
@@ -135,7 +121,7 @@
     "Professor": "معین معینی اقطاعی، ملکی",
     "ExamDate": "1399/10/22   09:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 13:30 تا 15:0",
-    "Comments": "مخصوص دانشجویان رشته اقتصاد انرژی",
+    "Comments": "مخصوص دانشجویان رشته اقتصاد انرژی شروع کلاس از آبان ماه",
     "MessageOnSignup": "مخصوص دانشجویان رشته اقتصاد انرژی",
     "CourseID": "46362"
   },
@@ -149,7 +135,7 @@
     "Professor": "عباس رجبی قهنویه",
     "ExamDate": "1399/10/22   15:00",
     "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "46372"
   },
@@ -163,7 +149,7 @@
     "Professor": "معین معینی اقطاعی",
     "ExamDate": "1399/10/24   15:00",
     "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "46375"
   },
@@ -177,7 +163,7 @@
     "Professor": "اکرم عوامی",
     "ExamDate": "1399/11/01   09:00",
     "ClassTime": "شنبه و دوشنبه 7:30 تا 9:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "46384"
   },
@@ -191,7 +177,7 @@
     "Professor": "عباس ملکی",
     "ExamDate": "1399/10/22   15:00",
     "ClassTime": "يکشنبه و سه شنبه 7:30 تا 9:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "46390"
   },
@@ -218,7 +204,7 @@
     "EnrolledStudents": "3",
     "Professor": "محسن غفاری",
     "ExamDate": "1399/11/06   09:00",
-    "ClassTime": "يکشنبه 15:0 تا 16:30",
+    "ClassTime": "يکشنبه 16:30 تا 18:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "46511"
@@ -275,7 +261,7 @@
     "Professor": "سید ابوالفضل حسینی",
     "ExamDate": "",
     "ClassTime": "سه شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "46521"
   },
@@ -359,7 +345,7 @@
     "Professor": "امیر موافقی",
     "ExamDate": "1399/11/04   09:00",
     "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 15:0 تا 16:30",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "46564"
   },
@@ -460,6 +446,20 @@
     "Comments": "شروع کلاس از آبان ماه",
     "MessageOnSignup": "شروع کلاس از آبان ماه",
     "CourseID": "46393"
+  },
+  {
+    "Group": "1",
+    "Credits": "3",
+    "Name": "محاسبات عددی پیشرفته",
+    "Prereqs": "",
+    "Capacity": "6",
+    "EnrolledStudents": "",
+    "Professor": "محسن غفاری",
+    "ExamDate": "",
+    "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 7:30 تا 9:0",
+    "Comments": "مخصوص دانشجویان دکتری",
+    "MessageOnSignup": "مخصوص دانشجویان دکتری",
+    "CourseID": "46525"
   },
   {
     "Group": "1",

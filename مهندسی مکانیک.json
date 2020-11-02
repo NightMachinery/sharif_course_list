@@ -1283,7 +1283,7 @@
     "Professor": "مهرداد تقی زاده منظری",
     "ExamDate": "1399/10/23   09:00",
     "ClassTime": "يکشنبه و سه شنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28012"
   },
@@ -1297,7 +1297,7 @@
     "Professor": "محمد دورعلی",
     "ExamDate": "1399/10/30   09:00",
     "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28019"
   },
@@ -1549,7 +1549,7 @@
     "Professor": "حسن صیادی",
     "ExamDate": "1399/10/27   15:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28052"
   },
@@ -1563,7 +1563,7 @@
     "Professor": "محمدتقی احمدیان",
     "ExamDate": "1399/10/30   09:00",
     "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28053"
   },
@@ -1577,7 +1577,7 @@
     "Professor": "جمال ارغوانی هادی",
     "ExamDate": "1399/11/01   09:00",
     "ClassTime": "شنبه و دوشنبه 7:30 تا 9:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28064"
   },
@@ -1619,7 +1619,7 @@
     "Professor": "بیژن فرهانیه",
     "ExamDate": "1399/11/05   09:00",
     "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28089"
   },
@@ -1633,7 +1633,7 @@
     "Professor": "امیر شاملو",
     "ExamDate": "1399/11/04   09:00",
     "ClassTime": "يکشنبه و سه شنبه 16:30 تا 18:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28185"
   },
@@ -1675,7 +1675,7 @@
     "Professor": "محمدبهشاد شفیعی",
     "ExamDate": "1399/11/01   09:00",
     "ClassTime": "شنبه و دوشنبه 7:30 تا 9:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28197"
   },
@@ -1731,7 +1731,7 @@
     "Professor": "حمید مهدیقلی",
     "ExamDate": "1399/10/24   09:00",
     "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28372"
   },
@@ -1745,7 +1745,7 @@
     "Professor": "مسعود آریان پور",
     "ExamDate": "1399/10/22   09:00",
     "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28385"
   },
@@ -1759,7 +1759,7 @@
     "Professor": "جواد اکبری",
     "ExamDate": "1399/10/29   09:00",
     "ClassTime": "شنبه و دوشنبه 15:0 تا 16:30",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28536"
   },
@@ -1801,7 +1801,7 @@
     "Professor": "غلامرضا وثوقی",
     "ExamDate": "1399/11/05   09:00",
     "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28551"
   },
@@ -1815,7 +1815,7 @@
     "Professor": "مهدی بهزاد",
     "ExamDate": "1399/11/01   09:00",
     "ClassTime": "شنبه و دوشنبه 7:30 تا 9:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28558"
   },
@@ -1829,7 +1829,7 @@
     "Professor": "حامد مرادی",
     "ExamDate": "1399/10/24   09:00",
     "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28574"
   },
@@ -1857,7 +1857,7 @@
     "Professor": "رضا نقدآبادی",
     "ExamDate": "1399/10/27   09:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28591"
   },
@@ -1969,7 +1969,7 @@
     "Professor": "محمدرضا تابش پور",
     "ExamDate": "1399/10/29   09:00",
     "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30",
-    "Comments": "",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
     "MessageOnSignup": "",
     "CourseID": "28987"
   },
