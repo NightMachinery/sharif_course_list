@@ -163,7 +163,7 @@
     "Professor": "سیروس قطبی",
     "ExamDate": "1399/10/23   15:00",
     "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 14:0",
     "MessageOnSignup": "",
     "CourseID": "26111"
   },
@@ -191,7 +191,7 @@
     "Professor": "فرهاد خراشه",
     "ExamDate": "1399/10/23   15:00",
     "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: چهار شنبه 12:0 تا 14:0",
     "MessageOnSignup": "",
     "CourseID": "26111"
   },
@@ -891,7 +891,7 @@
     "Professor": "اکبر شجاعی سقرلو",
     "ExamDate": "1399/10/27   09:00",
     "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: سه شنبه 12:0 تا 14:0",
     "MessageOnSignup": "",
     "CourseID": "26925"
   },
@@ -1069,7 +1069,7 @@
     "Name": "ریاضیات عددی پیشرفته",
     "Prereqs": "",
     "Capacity": "",
-    "EnrolledStudents": "64",
+    "EnrolledStudents": "60",
     "Professor": "رامین بزرگ مهری بوذرجمهری",
     "ExamDate": "1399/11/05   15:00",
     "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 سه شنبه 13:30 تا 15:0",
