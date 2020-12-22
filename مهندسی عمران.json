@@ -51,7 +51,7 @@
     "Professor": "عمار صفائی نعمت اللهی",
     "ExamDate": "",
     "ClassTime": "چهار شنبه 15:0 تا 17:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20009"
   },
@@ -107,7 +107,7 @@
     "Professor": "محسن قائمیان",
     "ExamDate": "1399/11/04   09:00",
     "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20012"
   },
@@ -135,7 +135,7 @@
     "Professor": "علیرضا خالو",
     "ExamDate": "",
     "ClassTime": "يکشنبه 13:0 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 14:0",
     "MessageOnSignup": "",
     "CourseID": "20101"
   },
@@ -191,7 +191,7 @@
     "Professor": "حسین محمدی شجاع",
     "ExamDate": "1399/11/05   09:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20111"
   },
@@ -303,7 +303,7 @@
     "Professor": "همایون اسمعیل پوراستکانچی",
     "ExamDate": "1399/11/09   15:00",
     "ClassTime": "سه شنبه 10:30 تا 12:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20224"
   },
@@ -429,7 +429,7 @@
     "Professor": "محمدمهدی احمدی",
     "ExamDate": "",
     "ClassTime": "سه شنبه 13:0 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 14:0",
     "MessageOnSignup": "",
     "CourseID": "20401"
   },
@@ -443,7 +443,7 @@
     "Professor": "حامد صادقی",
     "ExamDate": "",
     "ClassTime": "شنبه 7:0 تا 9:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 10:0 تا 12:0",
     "MessageOnSignup": "",
     "CourseID": "20401"
   },
@@ -457,7 +457,7 @@
     "Professor": "سیدمحسن حائری",
     "ExamDate": "1399/10/29   09:00",
     "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20411"
   },
@@ -765,7 +765,7 @@
     "Professor": "ساناز مقیم",
     "ExamDate": "1399/11/07   15:00",
     "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20014"
   },
@@ -779,7 +779,7 @@
     "Professor": "مرتضی اسکندری",
     "ExamDate": "1399/11/08   09:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 7:30 تا 9:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20014"
   },
@@ -793,7 +793,7 @@
     "Professor": "فیاض رحیم زاده روفوئی",
     "ExamDate": "1399/11/07   15:00",
     "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20014"
   },
@@ -803,11 +803,11 @@
     "Name": "قابلیت اعتماد سازه و مدل‌سازی احتمالاتی",
     "Prereqs": "",
     "Capacity": "25",
-    "EnrolledStudents": "20",
+    "EnrolledStudents": "21",
     "Professor": "مجتبی محصولی",
     "ExamDate": "1399/11/04   15:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:30 چهار شنبه 9:30 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20130"
   },
@@ -821,7 +821,7 @@
     "Professor": "حسین محمدی شجاع",
     "ExamDate": "1399/10/30   09:00",
     "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20138"
   },
@@ -835,7 +835,7 @@
     "Professor": "همایون اسمعیل پوراستکانچی",
     "ExamDate": "1399/10/30   09:00",
     "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20139"
   },
@@ -863,7 +863,7 @@
     "Professor": "امیررضا خوئی",
     "ExamDate": "1399/10/29   09:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20149"
   },
@@ -891,7 +891,7 @@
     "Professor": "کیارش محتشم دولتشاهی",
     "ExamDate": "1399/11/04   15:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0 چهار شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20153"
   },
@@ -905,7 +905,7 @@
     "Professor": "فیاض رحیم زاده روفوئی",
     "ExamDate": "1399/10/29   15:00",
     "ClassTime": "يکشنبه و سه شنبه 7:30 تا 9:0",
-    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست\n              \n               ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20165"
   },
@@ -947,7 +947,7 @@
     "Professor": "شروین ملکی",
     "ExamDate": "1399/10/30   09:00",
     "ClassTime": "يکشنبه و سه شنبه 13:0 تا 14:30",
-    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست\n              \n               ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20243"
   },
@@ -975,7 +975,7 @@
     "Professor": "امین الوانچی",
     "ExamDate": "1399/11/01   15:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20303"
   },
@@ -989,7 +989,7 @@
     "Professor": "امین الوانچی",
     "ExamDate": "",
     "ClassTime": "دوشنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20304"
   },
@@ -1003,7 +1003,7 @@
     "Professor": "امین الوانچی",
     "ExamDate": "1399/11/08   09:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 7:30 تا 9:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20307"
   },
@@ -1017,7 +1017,7 @@
     "Professor": "یوسف شفاهی",
     "ExamDate": "1399/11/04   09:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:30 سه شنبه 13:30 تا 15:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20308"
   },
@@ -1073,7 +1073,7 @@
     "Professor": "محمدمهدی احمدی",
     "ExamDate": "1399/10/29   09:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20418"
   },
@@ -1101,7 +1101,7 @@
     "Professor": "سیدمحسن حائری",
     "ExamDate": "1399/11/01   15:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20440"
   },
@@ -1115,7 +1115,7 @@
     "Professor": "سیدمحسن حائری",
     "ExamDate": "1399/11/04   15:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20441"
   },
@@ -1129,7 +1129,7 @@
     "Professor": "علی پاک",
     "ExamDate": "1399/11/01   15:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20442"
   },
@@ -1171,7 +1171,7 @@
     "Professor": "حبیب اله نصیری",
     "ExamDate": "1399/11/12   09:00",
     "ClassTime": "يکشنبه و سه شنبه و چهار شنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20551"
   },
@@ -1185,7 +1185,7 @@
     "Professor": "حبیب اله نصیری",
     "ExamDate": "1399/11/07   09:00",
     "ClassTime": "يکشنبه و سه شنبه و چهار شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20552"
   },
@@ -1199,7 +1199,7 @@
     "Professor": "امیر صمیمی",
     "ExamDate": "1399/11/01   09:00",
     "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 چهار شنبه 7:30 تا 9:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20557"
   },
@@ -1213,7 +1213,7 @@
     "Professor": "یوسف شفاهی",
     "ExamDate": "1399/11/01   09:00",
     "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 يکشنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20582"
   },
@@ -1227,7 +1227,7 @@
     "Professor": "محمد کرمانشاه",
     "ExamDate": "1399/10/29   09:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20591"
   },
@@ -1241,7 +1241,7 @@
     "Professor": "حسین پورزاهدی",
     "ExamDate": "1399/10/29   09:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20595"
   },
@@ -1283,7 +1283,7 @@
     "Professor": "محمد دانش یزدی",
     "ExamDate": "1399/11/01   09:00",
     "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30 چهار شنبه 7:30 تا 9:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20607"
   },
@@ -1297,7 +1297,7 @@
     "Professor": "محمد دانش یزدی",
     "ExamDate": "1399/11/11   09:00",
     "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30 چهار شنبه 16:30 تا 18:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20647"
   },
@@ -1325,7 +1325,7 @@
     "Professor": "محمد راعی",
     "ExamDate": "1399/11/12   15:00",
     "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20676"
   },
@@ -1339,7 +1339,7 @@
     "Professor": "عمار صفائی نعمت اللهی",
     "ExamDate": "1399/11/12   15:00",
     "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20702"
   },
@@ -1363,11 +1363,11 @@
     "Name": "عنوان خاص",
     "Prereqs": "",
     "Capacity": "20",
-    "EnrolledStudents": "19",
+    "EnrolledStudents": "20",
     "Professor": "وهب توفیق",
     "ExamDate": "1399/11/08   09:00",
     "ClassTime": "شنبه و دوشنبه و چهار شنبه 7:30 تا 9:0",
-    "Comments": "عنوان درس : ترمیم و بهسازی سازه ها",
+    "Comments": "عنوان درس : ترمیم و بهسازی سازه ها\n              \n               ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "عنوان درس : ترمیم و بهسازی سازه ها",
     "CourseID": "20893"
   },
@@ -1395,7 +1395,7 @@
     "Professor": "محمد راعی",
     "ExamDate": "",
     "ClassTime": "يکشنبه 12:0 تا 13:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "20919"
   },
@@ -1573,7 +1573,7 @@
     "Name": "رساله دکتری",
     "Prereqs": "",
     "Capacity": "",
-    "EnrolledStudents": "29",
+    "EnrolledStudents": "30",
     "Professor": "فیاض رحیم زاده روفوئی",
     "ExamDate": "",
     "ClassTime": "",

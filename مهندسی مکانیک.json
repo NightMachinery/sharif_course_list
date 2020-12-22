@@ -65,7 +65,7 @@
     "Professor": "علی موسوی",
     "ExamDate": "1399/11/06   09:00",
     "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: يکشنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "28152"
   },
@@ -233,7 +233,7 @@
     "Professor": "نوید ارجمند",
     "ExamDate": "1399/10/29   15:00",
     "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: يکشنبه 17:0 تا 18:0",
     "MessageOnSignup": "",
     "CourseID": "28262"
   },
@@ -303,7 +303,7 @@
     "Professor": "محمود سعادت فومنی",
     "ExamDate": "1399/11/12   15:00",
     "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30",
-    "Comments": "",
+    "Comments": "ساعات رفع اشکال: چهار شنبه 10:0 تا 12:0",
     "MessageOnSignup": "",
     "CourseID": "28416"
   },
@@ -611,7 +611,7 @@
     "Professor": "سعید خدایگان",
     "ExamDate": "1399/11/07   09:00",
     "ClassTime": "يکشنبه و سه شنبه 10:30 تا 13:0",
-    "Comments": "ساعات رفع اشکال: يکشنبه 15:0 تا 16:0",
+    "Comments": "ساعات رفع اشکال: شنبه 14:0 تا 15:0",
     "MessageOnSignup": "",
     "CourseID": "28651"
   },
@@ -1353,7 +1353,7 @@
     "Professor": "علی موسوی",
     "ExamDate": "1399/11/09   09:00",
     "ClassTime": "يکشنبه و سه شنبه و پنجشنبه 13:30 تا 15:0",
-    "Comments": "این درس از آبان ماه ارائه میگردد.",
+    "Comments": "این درس از آبان ماه ارائه میگردد.\n              \n               ساعات رفع اشکال: يکشنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "28031"
   },
@@ -1535,7 +1535,7 @@
     "Professor": "علی مقداری",
     "ExamDate": "1399/11/06   09:00",
     "ClassTime": "شنبه و دوشنبه 15:0 تا 17:0",
-    "Comments": "این درس از آبان ماه ارائه میگردد.",
+    "Comments": "این درس از آبان ماه ارائه میگردد.\n              \n               ساعات رفع اشکال: سه شنبه 17:0 تا 18:0",
     "MessageOnSignup": "",
     "CourseID": "28046"
   },
@@ -1563,7 +1563,7 @@
     "Professor": "محمدتقی احمدیان",
     "ExamDate": "1399/11/07   09:00",
     "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
-    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست",
+    "Comments": ".ثبت نام و حذف در ترميم مجاز نيست\n              \n               ساعات رفع اشکال: يکشنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "28053"
   },
@@ -1899,7 +1899,7 @@
     "Professor": "فرزام فرهمند",
     "ExamDate": "1399/11/04   09:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:30",
-    "Comments": "این درس از آبان ماه ارائه میگردد.\n              \n               ساعات رفع اشکال: دوشنبه 12:0 تا 13:0",
+    "Comments": "این درس از آبان ماه ارائه میگردد.\n              \n               ساعات رفع اشکال: شنبه 12:0 تا 13:0",
     "MessageOnSignup": "",
     "CourseID": "28904"
   },
@@ -1965,7 +1965,7 @@
     "Name": "پیشنهاد پژوهشی",
     "Prereqs": "",
     "Capacity": "",
-    "EnrolledStudents": "17",
+    "EnrolledStudents": "18",
     "Professor": "",
     "ExamDate": "",
     "ClassTime": "",
@@ -1993,7 +1993,7 @@
     "Name": "رساله دکتری",
     "Prereqs": "پيشنياز: 28000",
     "Capacity": "",
-    "EnrolledStudents": "49",
+    "EnrolledStudents": "50",
     "Professor": "حامد مرادی",
     "ExamDate": "",
     "ClassTime": "",
@@ -2021,7 +2021,7 @@
     "Name": "دستیار آموزشی",
     "Prereqs": "",
     "Capacity": "",
-    "EnrolledStudents": "35",
+    "EnrolledStudents": "37",
     "Professor": "حامد مرادی",
     "ExamDate": "",
     "ClassTime": "",
