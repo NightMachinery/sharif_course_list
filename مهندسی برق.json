@@ -14,20 +14,6 @@
     "CourseID": "25007"
   },
   {
-    "Group": "1",
-    "Credits": "3",
-    "Name": "الکترونیک ۱",
-    "Prereqs": "پيشنياز: 25759همنياز: 25002",
-    "Capacity": "20",
-    "EnrolledStudents": "",
-    "Professor": "رحیم فائز",
-    "ExamDate": "1400/04/02   09:00",
-    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
-    "Comments": "",
-    "MessageOnSignup": "",
-    "CourseID": "25031"
-  },
-  {
     "Group": "2",
     "Credits": "3",
     "Name": "الکترونیک ۱",
@@ -37,6 +23,20 @@
     "Professor": "زهرا کاوه وش",
     "ExamDate": "1400/04/07   09:00",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "25031"
+  },
+  {
+    "Group": "1",
+    "Credits": "3",
+    "Name": "الکترونیک ۱",
+    "Prereqs": "پيشنياز: 25759همنياز: 25002",
+    "Capacity": "20",
+    "EnrolledStudents": "",
+    "Professor": "رحیم فائز",
+    "ExamDate": "1400/04/02   09:00",
+    "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "25031"
@@ -98,20 +98,6 @@
     "CourseID": "25044"
   },
   {
-    "Group": "6",
-    "Credits": "3",
-    "Name": "مبانی مهندسی برق ۱",
-    "Prereqs": "پيشنياز: 24012و 22016",
-    "Capacity": "30",
-    "EnrolledStudents": "",
-    "Professor": "محمد مهدی مدیری",
-    "ExamDate": "1400/04/10   15:30",
-    "ClassTime": "يکشنبه و سه شنبه 16:30 تا 18:0",
-    "Comments": "",
-    "MessageOnSignup": "",
-    "CourseID": "25091"
-  },
-  {
     "Group": "5",
     "Credits": "3",
     "Name": "مبانی مهندسی برق ۱",
@@ -121,6 +107,20 @@
     "Professor": "پویان کاتبی",
     "ExamDate": "1400/04/10   15:30",
     "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "25091"
+  },
+  {
+    "Group": "6",
+    "Credits": "3",
+    "Name": "مبانی مهندسی برق ۱",
+    "Prereqs": "پيشنياز: 24012و 22016",
+    "Capacity": "30",
+    "EnrolledStudents": "",
+    "Professor": "محمد مهدی مدیری",
+    "ExamDate": "1400/04/10   15:30",
+    "ClassTime": "يکشنبه و سه شنبه 16:30 تا 18:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "25091"
@@ -240,6 +240,20 @@
   {
     "Group": "1",
     "Credits": "1",
+    "Name": "آز الکترونیک ۳",
+    "Prereqs": "پيشنياز: 25203و 25033",
+    "Capacity": "10",
+    "EnrolledStudents": "",
+    "Professor": "علی فتوت احمدی",
+    "ExamDate": "",
+    "ClassTime": "چهار شنبه 9:0 تا 12:0",
+    "Comments": "اولویت با دانشجویان فارغ التحصیل",
+    "MessageOnSignup": "اولویت با دانشجویان فارغ التحصیل",
+    "CourseID": "25204"
+  },
+  {
+    "Group": "1",
+    "Credits": "1",
     "Name": "آز الکترونیک صنعتی",
     "Prereqs": "همنياز: 25213",
     "Capacity": "8",
@@ -266,6 +280,20 @@
     "CourseID": "25205"
   },
   {
+    "Group": "2",
+    "Credits": "1",
+    "Name": "آز کنترل",
+    "Prereqs": "پيشنياز: 25411",
+    "Capacity": "12",
+    "EnrolledStudents": "",
+    "Professor": "امین رضائی زاده",
+    "ExamDate": "",
+    "ClassTime": "شنبه 13:30 تا 16:30",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "25403"
+  },
+  {
     "Group": "4",
     "Credits": "1",
     "Name": "آز کنترل",
@@ -287,20 +315,6 @@
     "Capacity": "12",
     "EnrolledStudents": "",
     "Professor": "مریم بابازاده کلورزی",
-    "ExamDate": "",
-    "ClassTime": "شنبه 13:30 تا 16:30",
-    "Comments": "",
-    "MessageOnSignup": "",
-    "CourseID": "25403"
-  },
-  {
-    "Group": "2",
-    "Credits": "1",
-    "Name": "آز کنترل",
-    "Prereqs": "پيشنياز: 25411",
-    "Capacity": "12",
-    "EnrolledStudents": "",
-    "Professor": "امین رضائی زاده",
     "ExamDate": "",
     "ClassTime": "شنبه 13:30 تا 16:30",
     "Comments": "",
@@ -364,7 +378,7 @@
     "CourseID": "25700"
   },
   {
-    "Group": "2",
+    "Group": "3",
     "Credits": "1",
     "Name": "آزمایشگاه مخابرات دیجیتال",
     "Prereqs": "پيشنياز: 25763",
@@ -372,7 +386,7 @@
     "EnrolledStudents": "",
     "Professor": "فرید آشتیانی مفردطهرانی",
     "ExamDate": "",
-    "ClassTime": "يکشنبه 13:30 تا 16:30",
+    "ClassTime": "دوشنبه 13:30 تا 16:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "25701"
@@ -392,7 +406,7 @@
     "CourseID": "25701"
   },
   {
-    "Group": "3",
+    "Group": "2",
     "Credits": "1",
     "Name": "آزمایشگاه مخابرات دیجیتال",
     "Prereqs": "پيشنياز: 25763",
@@ -400,7 +414,7 @@
     "EnrolledStudents": "",
     "Professor": "فرید آشتیانی مفردطهرانی",
     "ExamDate": "",
-    "ClassTime": "دوشنبه 13:30 تا 16:30",
+    "ClassTime": "يکشنبه 13:30 تا 16:30",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "25701"
@@ -1972,20 +1986,6 @@
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "25190"
-  },
-  {
-    "Group": "1",
-    "Credits": "3",
-    "Name": "ادوات ابررسانا",
-    "Prereqs": "",
-    "Capacity": "",
-    "EnrolledStudents": "",
-    "Professor": "مهدی فردمنش",
-    "ExamDate": "1400/04/01   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30",
-    "Comments": "",
-    "MessageOnSignup": "",
-    "CourseID": "25242"
   },
   {
     "Group": "1",

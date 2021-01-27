@@ -456,22 +456,22 @@
     "EnrolledStudents": "",
     "Professor": "امید اخوان اشرفیه",
     "ExamDate": "",
-    "ClassTime": "يکشنبه 17:0 تا 19:0",
+    "ClassTime": "يکشنبه 15:0 تا 17:0",
     "Comments": "امتحان با نظر استاد درس",
     "MessageOnSignup": "",
     "CourseID": "24003"
   },
   {
-    "Group": "3",
+    "Group": "2",
     "Credits": "1",
     "Name": "آز فیزیک ۳",
     "Prereqs": "پيشنياز: 24013",
     "Capacity": "12",
     "EnrolledStudents": "",
-    "Professor": "",
+    "Professor": "امید اخوان اشرفیه",
     "ExamDate": "",
-    "ClassTime": "",
-    "Comments": "",
+    "ClassTime": "سه شنبه 15:0 تا 17:0",
+    "Comments": "امتحان با نظر استاد درس",
     "MessageOnSignup": "",
     "CourseID": "24003"
   },
@@ -1143,7 +1143,7 @@
     "Professor": "رضا رضائی",
     "ExamDate": "1400/04/03   15:30",
     "ClassTime": "يکشنبه و سه شنبه 16:30 تا 18:0",
-    "Comments": "",
+    "Comments": "اولویت با دانشجویان دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24131"
   },
@@ -1157,7 +1157,7 @@
     "Professor": "امین فرجی آستانه",
     "ExamDate": "1400/04/05   09:00",
     "ClassTime": "دوشنبه و چهار شنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "اولویت با دانشجویان دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24144"
   },
@@ -1227,7 +1227,7 @@
     "Professor": "لاله معمارزاده اصفهانی",
     "ExamDate": "1400/04/05   09:00",
     "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "اولویت با دانشجویان دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24179"
   },
@@ -1311,7 +1311,7 @@
     "Professor": "سیدمحمد مهدوی",
     "ExamDate": "1400/04/05   09:00",
     "ClassTime": "شنبه و دوشنبه 13:30 تا 15:0",
-    "Comments": "",
+    "Comments": "اولویت با دانشجویان دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24281"
   },
@@ -1450,7 +1450,7 @@
     "EnrolledStudents": "",
     "Professor": "مهدی ترابیان",
     "ExamDate": "",
-    "ClassTime": "شنبه و دوشنبه 13:0 تا 15:0",
+    "ClassTime": "شنبه و دوشنبه 11:0 تا 13:0",
     "Comments": "امتحان Take home می باشد.",
     "MessageOnSignup": "",
     "CourseID": "24343"
@@ -1464,8 +1464,8 @@
     "EnrolledStudents": "",
     "Professor": "علی اسفندیار",
     "ExamDate": "",
-    "ClassTime": "",
-    "Comments": "",
+    "ClassTime": "يکشنبه 8:30 تا 12:30",
+    "Comments": "امتحان با نظر استاد درس",
     "MessageOnSignup": "",
     "CourseID": "24403"
   },
@@ -1507,7 +1507,7 @@
     "Professor": "فاخته قنبرنژاد",
     "ExamDate": "1400/04/07   09:00",
     "ClassTime": "دوشنبه و چهار شنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": "اولویت با دانشجویان دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24170"
   },
@@ -1535,7 +1535,7 @@
     "Professor": "سید نادر سیدریحانی",
     "ExamDate": "1400/04/01   09:00",
     "ClassTime": "يکشنبه و سه شنبه 15:0 تا 16:30",
-    "Comments": "",
+    "Comments": "اولویت با دانشجویان دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24288"
   },
@@ -1549,7 +1549,7 @@
     "Professor": "سامان مقیمی عراقی",
     "ExamDate": "1400/04/02   09:00",
     "ClassTime": "شنبه و دوشنبه 9:0 تا 10:30",
-    "Comments": "",
+    "Comments": "اولویت با دانشجویان دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24347"
   },
@@ -1562,8 +1562,8 @@
     "EnrolledStudents": "",
     "Professor": "امین فرجی آستانه",
     "ExamDate": "1400/04/12   09:00",
-    "ClassTime": "دوشنبه و چهار شنبه 16:0 تا 17:30",
-    "Comments": "",
+    "ClassTime": "دوشنبه 15:30 تا 17:0 چهار شنبه 16:0 تا 17:30",
+    "Comments": "اولویت با دانشجویان دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24541"
   },
@@ -1577,7 +1577,7 @@
     "Professor": "علی اسفندیار",
     "ExamDate": "1400/04/03   15:30",
     "ClassTime": "يکشنبه و سه شنبه 16:30 تا 18:0",
-    "Comments": "",
+    "Comments": "اولویت با دانشجویان دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24618"
   },
@@ -1591,7 +1591,7 @@
     "Professor": "سید میرابوالحسن واعظی",
     "ExamDate": "1400/04/07   15:30",
     "ClassTime": "شنبه و دوشنبه 10:30 تا 12:0",
-    "Comments": "",
+    "Comments": "اولویت با دانشجویان دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24674"
   },
@@ -1605,7 +1605,7 @@
     "Professor": "صادق رئیسی",
     "ExamDate": "",
     "ClassTime": "شنبه و دوشنبه 17:0 تا 18:30",
-    "Comments": "امتحان توافق استاد و دانشجو جهت ثبت نام به استاد درس مراجعه نمایید\n              . لیست ثبت نامی توسط استاد ارائه خواهد شد.",
+    "Comments": "امتحان توافق استاد و دانشجو جهت ثبت نام به استاد درس مراجعه نمایید\n              . لیست ثبت نامی توسط استاد ارائه خواهد شد. اولویت با دانشجویان\n              دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24819"
   },
@@ -1619,7 +1619,7 @@
     "Professor": "عاطفه جوادی خسرقی",
     "ExamDate": "1400/04/09   09:00",
     "ClassTime": "شنبه و دوشنبه 15:0 تا 16:30",
-    "Comments": "",
+    "Comments": "اولویت با دانشجویان دانشکده‌ی فیزیک است.",
     "MessageOnSignup": "",
     "CourseID": "24911"
   },

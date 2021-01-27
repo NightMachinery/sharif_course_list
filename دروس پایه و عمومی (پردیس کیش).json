@@ -50,13 +50,13 @@
     "EnrolledStudents": "",
     "Professor": "سمیه سوری",
     "ExamDate": "",
-    "ClassTime": "شنبه 8:0 تا 9:30 شنبه 11:0 تا 12:30",
+    "ClassTime": "شنبه 8:0 تا 11:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "50011"
   },
   {
-    "Group": "2",
+    "Group": "1",
     "Credits": "3",
     "Name": "فیزیک ۱",
     "Prereqs": "همنياز: 50013",
@@ -70,7 +70,7 @@
     "CourseID": "50011"
   },
   {
-    "Group": "1",
+    "Group": "2",
     "Credits": "3",
     "Name": "فیزیک ۱",
     "Prereqs": "همنياز: 50013",
@@ -98,20 +98,6 @@
     "CourseID": "50012"
   },
   {
-    "Group": "2",
-    "Credits": "3",
-    "Name": "فیزیک ۲",
-    "Prereqs": "پيشنياز: 50011همنياز: 50014",
-    "Capacity": "20",
-    "EnrolledStudents": "",
-    "Professor": "سید نادر سیدریحانی",
-    "ExamDate": "",
-    "ClassTime": "",
-    "Comments": "",
-    "MessageOnSignup": "",
-    "CourseID": "50012"
-  },
-  {
     "Group": "1",
     "Credits": "3",
     "Name": "فیزیک ۲",
@@ -126,6 +112,20 @@
     "CourseID": "50012"
   },
   {
+    "Group": "2",
+    "Credits": "3",
+    "Name": "فیزیک ۲",
+    "Prereqs": "پيشنياز: 50011همنياز: 50014",
+    "Capacity": "20",
+    "EnrolledStudents": "",
+    "Professor": "سید نادر سیدریحانی",
+    "ExamDate": "",
+    "ClassTime": "يکشنبه و سه شنبه 9:30 تا 11:0",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "50012"
+  },
+  {
     "Group": "4",
     "Credits": "4",
     "Name": "ریاضی عمومی ۱",
@@ -133,20 +133,6 @@
     "Capacity": "25",
     "EnrolledStudents": "",
     "Professor": "",
-    "ExamDate": "",
-    "ClassTime": "",
-    "Comments": "",
-    "MessageOnSignup": "",
-    "CourseID": "50015"
-  },
-  {
-    "Group": "1",
-    "Credits": "4",
-    "Name": "ریاضی عمومی ۱",
-    "Prereqs": "",
-    "Capacity": "25",
-    "EnrolledStudents": "",
-    "Professor": "امیر جعفری",
     "ExamDate": "",
     "ClassTime": "",
     "Comments": "",
@@ -177,6 +163,20 @@
     "Professor": "ـ رسولیان",
     "ExamDate": "",
     "ClassTime": "دوشنبه و سه شنبه 13:30 تا 15:0",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "50015"
+  },
+  {
+    "Group": "1",
+    "Credits": "4",
+    "Name": "ریاضی عمومی ۱",
+    "Prereqs": "",
+    "Capacity": "25",
+    "EnrolledStudents": "",
+    "Professor": "امیر جعفری",
+    "ExamDate": "",
+    "ClassTime": "شنبه و دوشنبه 8:0 تا 10:0",
     "Comments": "",
     "MessageOnSignup": "",
     "CourseID": "50015"
@@ -280,6 +280,20 @@
     "CourseID": "50063"
   },
   {
+    "Group": "2",
+    "Credits": "3",
+    "Name": "آمار و احتمال مهندسی",
+    "Prereqs": "",
+    "Capacity": "15",
+    "EnrolledStudents": "",
+    "Professor": "سعید کامرو",
+    "ExamDate": "",
+    "ClassTime": "شنبه و دوشنبه 17:30 تا 19:0",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "50063"
+  },
+  {
     "Group": "1",
     "Credits": "2",
     "Name": "محاسبات عددی",
@@ -328,15 +342,15 @@
     "Prereqs": "پيشنياز: 50016",
     "Capacity": "25",
     "EnrolledStudents": "",
-    "Professor": "مهدی رضا یاریگر روش",
+    "Professor": "وحید کیوانفر",
     "ExamDate": "",
-    "ClassTime": "سه شنبه 9:30 تا 12:30",
+    "ClassTime": "يکشنبه و سه شنبه 10:30 تا 12:0",
     "Comments": "توجه: این کد درس مخصوص دانشجویان صنایع و کامپیوتر می باشد.",
     "MessageOnSignup": "",
     "CourseID": "50256"
   },
   {
-    "Group": "3",
+    "Group": "2",
     "Credits": "2",
     "Name": "نقشه‌کشی صنعتی ۱",
     "Prereqs": "",
@@ -344,8 +358,8 @@
     "EnrolledStudents": "",
     "Professor": "نگین رئوفی",
     "ExamDate": "",
-    "ClassTime": "چهار شنبه 12:0 تا 14:0",
-    "Comments": "این گروه درسی مختص دانشجویان کارشناسی هوافضا، مواد وصنایع می\n              باشد.دانشجویان دیگر رشته ها مجاز به انتخاب این گروه درسی نمی\n              باشند.دانشجویان رشته مکانیک کد درس 58118 را باید اخذ نمایند.",
+    "ClassTime": "چهار شنبه 10:0 تا 12:0",
+    "Comments": "این گروه درسی مختص دانشجویان کارشناسی هوافضا، مواد وصنایع می\n              باشد.دانشجویان دیگر رشته ها مجاز به انتخاب این گروه درسی نمی\n              باشند.دانشجویان رشته مکانیک باید کد درس 58118 را اخذ نمایند.",
     "MessageOnSignup": "",
     "CourseID": "50311"
   },
@@ -364,7 +378,7 @@
     "CourseID": "50311"
   },
   {
-    "Group": "2",
+    "Group": "3",
     "Credits": "2",
     "Name": "نقشه‌کشی صنعتی ۱",
     "Prereqs": "",
@@ -372,8 +386,8 @@
     "EnrolledStudents": "",
     "Professor": "نگین رئوفی",
     "ExamDate": "",
-    "ClassTime": "چهار شنبه 10:0 تا 12:0",
-    "Comments": "این گروه درسی مختص دانشجویان کارشناسی هوافضا، مواد وصنایع می\n              باشد.دانشجویان دیگر رشته ها مجاز به انتخاب این گروه درسی نمی\n              باشند.دانشجویان رشته مکانیک باید کد درس 58118 را اخذ نمایند.",
+    "ClassTime": "چهار شنبه 12:0 تا 14:0",
+    "Comments": "این گروه درسی مختص دانشجویان کارشناسی هوافضا، مواد وصنایع می\n              باشد.دانشجویان دیگر رشته ها مجاز به انتخاب این گروه درسی نمی\n              باشند.دانشجویان رشته مکانیک کد درس 58118 را باید اخذ نمایند.",
     "MessageOnSignup": "",
     "CourseID": "50311"
   },
