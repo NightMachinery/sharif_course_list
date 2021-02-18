@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "کارآموزی",
+    "Prereqs": "",
+    "Capacity": "15",
+    "EnrolledStudents": "",
+    "Professor": "علی محمد-افشین همت یار",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "76027"
+  },
+  {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "پروژه تخصصی",
+    "Prereqs": "",
+    "Capacity": "15",
+    "EnrolledStudents": "1",
+    "Professor": "سیدمبین فاطمی",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "76900"
+  }
+]

@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "کارآموزی فناوری اطلاعات",
+    "Prereqs": "",
+    "Capacity": "15",
+    "EnrolledStudents": "",
+    "Professor": "علی محمد-افشین همت یار",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "80033"
+  },
+  {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "کارآموزی مهندسی کامپیوتر",
+    "Prereqs": "پيشنياز: 80014",
+    "Capacity": "15",
+    "EnrolledStudents": "2",
+    "Professor": "علی محمد-افشین همت یار",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "80500"
+  },
+  {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "پروژه مهندسی کامپیوتر",
+    "Prereqs": "پيشنياز: 80014",
+    "Capacity": "15",
+    "EnrolledStudents": "5",
+    "Professor": "علی محمد-افشین همت یار",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "80800"
+  },
+  {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "پروژه فناوری اطلاعات",
+    "Prereqs": "پيشنياز: 80014و 80016",
+    "Capacity": "15",
+    "EnrolledStudents": "",
+    "Professor": "علی محمد-افشین همت یار",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "80900"
+  }
+]

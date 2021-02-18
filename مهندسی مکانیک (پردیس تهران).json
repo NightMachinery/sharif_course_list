@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "کارآموزی ۱",
+    "Prereqs": "",
+    "Capacity": "15",
+    "EnrolledStudents": "1",
+    "Professor": "علی محمد-افشین همت یار",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "78029"
+  },
+  {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "کارآموزی ۲",
+    "Prereqs": "پيشنياز: 78029",
+    "Capacity": "15",
+    "EnrolledStudents": "",
+    "Professor": "علی محمد-افشین همت یار",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "78030"
+  },
+  {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "پروژه تخصصی",
+    "Prereqs": "",
+    "Capacity": "15",
+    "EnrolledStudents": "4",
+    "Professor": "محسن اصغری",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "78900"
+  }
+]
