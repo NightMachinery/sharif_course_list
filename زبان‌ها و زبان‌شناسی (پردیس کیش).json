@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "Group": "1",
+    "Credits": "3",
+    "Name": "زبان دوره دکتری",
+    "Prereqs": "",
+    "Capacity": "10",
+    "EnrolledStudents": "",
+    "Professor": "",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "59990"
+  }
+]
