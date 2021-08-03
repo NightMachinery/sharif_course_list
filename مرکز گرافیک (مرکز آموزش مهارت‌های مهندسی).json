@@ -1,0 +1,44 @@
+[
+  {
+    "Group": "1",
+    "Credits": "2",
+    "Name": "گرافیک مهندسی عمران",
+    "Prereqs": "",
+    "Capacity": "22",
+    "EnrolledStudents": "21",
+    "Professor": "مهدی متقی پور",
+    "ExamDate": "1400/06/06   09:00",
+    "ClassTime": "يکشنبه و سه شنبه 13:30 تا 19:0",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "35201"
+  },
+  {
+    "Group": "1",
+    "Credits": "2",
+    "Name": "نقشه‌کشی صنعتی ۱",
+    "Prereqs": "",
+    "Capacity": "17",
+    "EnrolledStudents": "17",
+    "Professor": "سیما برومند آزاد",
+    "ExamDate": "1400/06/06   09:00",
+    "ClassTime": "يکشنبه و سه شنبه 10:0 تا 15:30",
+    "Comments": "الویت با فارغ التحصیلان میباشد.",
+    "MessageOnSignup": "الویت با فارغ التحصیلان میباشد.",
+    "CourseID": "35311"
+  },
+  {
+    "Group": "1",
+    "Credits": "2",
+    "Name": "نقشه‌کشی صنعتی ۲ صنایع",
+    "Prereqs": "پيشنياز: 35311",
+    "Capacity": "20",
+    "EnrolledStudents": "19",
+    "Professor": "مبین متقی پور",
+    "ExamDate": "1400/06/06   09:00",
+    "ClassTime": "دوشنبه و سه شنبه 9:0 تا 14:30",
+    "Comments": "اولویت با فارغ التحصیلان میباشد.",
+    "MessageOnSignup": "اولویت با فارغ التحصیلان میباشد.",
+    "CourseID": "35512"
+  }
+]

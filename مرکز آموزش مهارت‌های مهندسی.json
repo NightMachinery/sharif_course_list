@@ -1,0 +1,72 @@
+[
+  {
+    "Group": "1",
+    "Credits": "1",
+    "Name": "کارگاه ماشین‌افزار",
+    "Prereqs": "",
+    "Capacity": "70",
+    "EnrolledStudents": "18",
+    "Professor": "ماهان امیرنیا",
+    "ExamDate": "1400/06/04   09:00",
+    "ClassTime": "دوشنبه و چهار شنبه 13:30 تا 19:30",
+    "Comments": "زمان تشکیل کلاس:13/30تا20 میباشد",
+    "MessageOnSignup": "زمان تشکیل کلاس:13/30تا20 میباشد",
+    "CourseID": "33011"
+  },
+  {
+    "Group": "1",
+    "Credits": "1",
+    "Name": "جوشکاری و ورقکاری",
+    "Prereqs": "",
+    "Capacity": "71",
+    "EnrolledStudents": "71",
+    "Professor": "رضا یوسفی",
+    "ExamDate": "1400/06/04   15:30",
+    "ClassTime": "دوشنبه و چهار شنبه 10:0 تا 16:0",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "33012"
+  },
+  {
+    "Group": "1",
+    "Credits": "1",
+    "Name": "اتومکانیک",
+    "Prereqs": "",
+    "Capacity": "70",
+    "EnrolledStudents": "37",
+    "Professor": "حسین رحیمی آسیابرکی",
+    "ExamDate": "1400/06/05   09:00",
+    "ClassTime": "دوشنبه و چهار شنبه 7:30 تا 13:30",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "33013"
+  },
+  {
+    "Group": "1",
+    "Credits": "1",
+    "Name": "کارگاه برق",
+    "Prereqs": "پيشنياز: 33018",
+    "Capacity": "100",
+    "EnrolledStudents": "28",
+    "Professor": "منظری",
+    "ExamDate": "1400/06/04   09:00",
+    "ClassTime": "شنبه و دوشنبه 17:0 تا 19:30",
+    "Comments": "زمان تشکیل کلاس:17تا23 میباشد",
+    "MessageOnSignup": "زمان تشکیل کلاس:17تا23 میباشد",
+    "CourseID": "33014"
+  },
+  {
+    "Group": "1",
+    "Credits": "1",
+    "Name": "کارگاه عمومی",
+    "Prereqs": "",
+    "Capacity": "102",
+    "EnrolledStudents": "102",
+    "Professor": "ماهان امیرنیا، رحیمی آسیابرکی، جوادیان",
+    "ExamDate": "1400/06/04   09:00",
+    "ClassTime": "يکشنبه و سه شنبه 7:30 تا 13:30",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": "33018"
+  }
+]
