@@ -7,7 +7,7 @@ English
 This repository is a
     [git-scrape](https://simonwillison.net/2020/Oct/9/git-scraping/) of the courses offered by Sharif University of Technology, started from the fall semester of 2020 (1399 in Jalali). The data includes each department's available courses, and details about these courses (the maximum capacity of the course, the professor, the prerequisites, the number of registered students, ...).
 
-The code that scrapes and generates this data is available [here](https://github.com/NightMachinary/.shells/blob/master/scripts/zsh/auto-load/others/scraping/sharif.zsh).
+The code that scrapes and generates this data is available [here](https://github.com/NightMachinary/.shells/blob/master/scripts/zshlang/auto-load/others/scraping/sharif.zsh).
 
 The latest version of the course lists can be viewed [here](https://nightmachinary.github.io/sharif_course_list/).
 
