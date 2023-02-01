@@ -4,28 +4,28 @@
     "Credits": "0",
     "Name": "امتحان جامع دکتری",
     "Prereqs": "",
-    "Capacity": "12",
-    "EnrolledStudents": "",
+    "Capacity": "10",
+    "EnrolledStudents": "1",
     "Professor": "راحله محمد پور",
     "ExamDate": "",
     "ClassTime": "",
     "Comments": "",
     "MessageOnSignup": "",
-    "CourseID": "48000"
+    "CourseID": ""
   },
   {
     "Group": "1",
     "Credits": "2",
     "Name": "نانوتکنولوژی ۲",
     "Prereqs": "",
-    "Capacity": "20",
-    "EnrolledStudents": "",
+    "Capacity": "25",
+    "EnrolledStudents": "11",
     "Professor": "سیدمحمد مهدوی، شاهرخیان دهکردی، ایرجی زاد",
-    "ExamDate": "1401/04/28   09:00",
-    "ClassTime": "شنبه 15:0 تا 16:0 يکشنبه 10:30 تا 12:0",
-    "Comments": "به دلیل ارائه درس توسط چند استاد امکان تغییر ساعت کلاس باهماهنگی\n              استاد مربوطه و دانشجویان وجود دارد",
-    "MessageOnSignup": "",
-    "CourseID": "48004"
+    "ExamDate": "1402/03/28   09:00",
+    "ClassTime": "شنبه از 15:0 تا 16:30 و یکشنبه از 10:30 تا 12:30",
+    "Comments": "",
+    "MessageOnSignup": "به دلیل ارائه درس توسط چند استاد امکان تغییر ساعت کلاس با هماهنگی\n              استاد مربوطه و دانشجویان وجود دارد",
+    "CourseID": ""
   },
   {
     "Group": "1",
@@ -33,74 +33,74 @@
     "Name": "پیشنهاد پژوهشی",
     "Prereqs": "",
     "Capacity": "10",
-    "EnrolledStudents": "",
+    "EnrolledStudents": "1",
     "Professor": "محمدمهدی احدیان",
     "ExamDate": "",
     "ClassTime": "",
     "Comments": "",
     "MessageOnSignup": "",
-    "CourseID": "48005"
+    "CourseID": ""
   },
   {
     "Group": "1",
     "Credits": "1",
     "Name": "سمینار عمومی",
     "Prereqs": "",
-    "Capacity": "18",
-    "EnrolledStudents": "",
+    "Capacity": "15",
+    "EnrolledStudents": "7",
     "Professor": "راحله محمد پور",
     "ExamDate": "",
-    "ClassTime": "دوشنبه 13:30 تا 15:0",
+    "ClassTime": "دوشنبه از 13:30 تا 15:0",
     "Comments": "",
     "MessageOnSignup": "",
-    "CourseID": "48010"
+    "CourseID": ""
   },
   {
     "Group": "1",
     "Credits": "3",
     "Name": "روش‌های نانومحاسباتی پایه",
     "Prereqs": "همنیاز: 48003",
-    "Capacity": "18",
-    "EnrolledStudents": "",
+    "Capacity": "25",
+    "EnrolledStudents": "13",
     "Professor": "حسین نجات پیش کناری، فتاحی",
-    "ExamDate": "1401/05/02   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 7:30 تا 9:0",
+    "ExamDate": "1402/03/30   09:00",
+    "ClassTime": "شنبه و یکشنبه از 13:30 تا 15:0",
     "Comments": "",
-    "MessageOnSignup": "امکان تغییر زمان کلاس وجود دارد",
-    "CourseID": "48011"
+    "MessageOnSignup": "محل تشکیل کلاسهای روز شنبه دکتر فتاحی دانشکده شیمی سالن اکسیر می\n              باشد( به دلیل چند جلسه تعطیلی رسمی در روز شنبه کلاس جبرانی درزمان\n              دیگری گذاشته خواهد شد)",
+    "CourseID": ""
   },
   {
     "Group": "1",
     "Credits": "0",
     "Name": "سمینار تخصصی",
     "Prereqs": "",
-    "Capacity": "10",
-    "EnrolledStudents": "",
+    "Capacity": "8",
+    "EnrolledStudents": "2",
     "Professor": "محمدمهدی احدیان",
     "ExamDate": "",
-    "ClassTime": "دوشنبه 12:30 تا 13:30",
+    "ClassTime": "دوشنبه از 13:0 تا 13:30",
     "Comments": "",
     "MessageOnSignup": "",
-    "CourseID": "48019"
+    "CourseID": ""
+  },
+  {
+    "Group": "1",
+    "Credits": "3",
+    "Name": "نانوذرات کلوئیدی",
+    "Prereqs": "",
+    "Capacity": "15",
+    "EnrolledStudents": "4",
+    "Professor": "محمد ایمانی",
+    "ExamDate": "1402/03/24   09:00",
+    "ClassTime": "یکشنبه و چهارشنبه از 9:0 تا 10:30",
+    "Comments": "",
+    "MessageOnSignup": "",
+    "CourseID": ""
   },
   {
     "Group": "1",
     "Credits": "0",
     "Name": "دفاع از رساله دکتری",
-    "Prereqs": "",
-    "Capacity": "10",
-    "EnrolledStudents": "",
-    "Professor": "محمدمهدی احدیان",
-    "ExamDate": "",
-    "ClassTime": "",
-    "Comments": "کسانیکه در همین نیمسال قصد دفاع ازرساله دکتری را دارند بایستی\n              دراین درس ثبت نام نمایند",
-    "MessageOnSignup": "",
-    "CourseID": "48090"
-  },
-  {
-    "Group": "1",
-    "Credits": "0",
-    "Name": "رساله دکتری",
     "Prereqs": "",
     "Capacity": "20",
     "EnrolledStudents": "",
@@ -108,8 +108,22 @@
     "ExamDate": "",
     "ClassTime": "",
     "Comments": "",
+    "MessageOnSignup": "کسانیکه در همین نیمسال قصد دفاع از رساله دکتری را دارند بایستی در\n              این درس ثبت نام نمایند",
+    "CourseID": ""
+  },
+  {
+    "Group": "1",
+    "Credits": "0",
+    "Name": "رساله دکتری",
+    "Prereqs": "",
+    "Capacity": "25",
+    "EnrolledStudents": "6",
+    "Professor": "محمدمهدی احدیان",
+    "ExamDate": "",
+    "ClassTime": "",
+    "Comments": "",
     "MessageOnSignup": "",
-    "CourseID": "48100"
+    "CourseID": ""
   },
   {
     "Group": "1",
@@ -117,13 +131,13 @@
     "Name": "علوم و مهندسی سطح",
     "Prereqs": "پیش‌نیاز: 48001",
     "Capacity": "20",
-    "EnrolledStudents": "",
+    "EnrolledStudents": "7",
     "Professor": "محمدمهدی احدیان",
-    "ExamDate": "1401/04/26   09:00",
-    "ClassTime": "يکشنبه و سه شنبه 9:0 تا 10:30",
+    "ExamDate": "1402/04/03   09:00",
+    "ClassTime": "شنبه و دوشنبه از 9:0 تا 10:30",
     "Comments": "",
     "MessageOnSignup": "",
-    "CourseID": "48301"
+    "CourseID": ""
   },
   {
     "Group": "1",
@@ -131,13 +145,13 @@
     "Name": "سلول‌های خورشیدی نانوساختاری ۱",
     "Prereqs": "",
     "Capacity": "15",
-    "EnrolledStudents": "",
+    "EnrolledStudents": "2",
     "Professor": "نیما تقوی نیا، محمد پور",
-    "ExamDate": "1401/04/25   09:00",
-    "ClassTime": "شنبه و چهار شنبه 10:0 تا 11:30",
+    "ExamDate": "1402/03/27   09:00",
+    "ClassTime": "شنبه و دوشنبه از 11:0 تا 12:30",
     "Comments": "",
     "MessageOnSignup": "",
-    "CourseID": "48407"
+    "CourseID": ""
   },
   {
     "Group": "1",
@@ -145,13 +159,13 @@
     "Name": "آز نانو",
     "Prereqs": "پیش‌نیاز: 48004 و 48003 و 48114 همنیاز: 48115",
     "Capacity": "4",
-    "EnrolledStudents": "",
-    "Professor": "راحله محمد پور، کلانتریان",
+    "EnrolledStudents": "4",
+    "Professor": "اسداله کلانتریان، محمد پور",
     "ExamDate": "",
-    "ClassTime": "",
+    "ClassTime": "سه شنبه از 9:0 تا 12:0",
     "Comments": "",
     "MessageOnSignup": "",
-    "CourseID": "48601"
+    "CourseID": ""
   },
   {
     "Group": "1",
@@ -159,12 +173,12 @@
     "Name": "دستیار آموزشی",
     "Prereqs": "",
     "Capacity": "15",
-    "EnrolledStudents": "",
+    "EnrolledStudents": "3",
     "Professor": "محمدمهدی احدیان",
     "ExamDate": "",
     "ClassTime": "",
     "Comments": "",
     "MessageOnSignup": "",
-    "CourseID": "48TA0"
+    "CourseID": ""
   }
 ]
