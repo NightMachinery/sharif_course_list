@@ -9,7 +9,7 @@ This repository is a
 
 The code that scrapes and generates this data is available [here](https://github.com/NightMachinery/.shells/blob/master/scripts/zshlang/auto-load/others/scraping/sharif.zsh).
 
-The latest version of the course lists can be viewed [here](https://nightmachinary.github.io/sharif_course_list/).
+The latest version of the course lists can be viewed [here](https://nightmachinery.github.io/sharif_course_list/).
 
 ## Basic usage example
 
